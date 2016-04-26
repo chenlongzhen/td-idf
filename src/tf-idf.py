@@ -41,11 +41,15 @@ idf = defaultdict(float)
 word_list = []
 
 def _str_replace(content):
+    
     """replace Punctuation and characters """
-    pattern = re.compile("^\s+|\s*,*\s*|\s+$")
-    terms = [word for word in pattern.split(content)]
-    processed_content =  "".join(terms)
-    return processed_content
+    #pattern = re.compile("^\s+|\s*,*\s*|\s+$")
+    pattern = re.compile("[a-z]|[1-9]|.|:")
+    words = pattern.sub("",content.encode("utf-8"))
+    #terms = [word for word in pattern.split(content)]
+    #processed_content =  "".join(terms)
+    print words
+    return words
 
 def _unicodelist_to_str(word_list):
     
@@ -88,11 +92,15 @@ def split_words(infile):
     data = pd.read_table(infile,sep = "\t",names=['id','content'],encoding='utf-8')
     #print data
     combined_data = data.groupby('id').apply(concat_str)
+    # sub
+    ##################data_subbed = combined_data.apply(_str_replace)
     contents_combined = combined_data.values
     ids_combined = combined_data.index.values
     data_combined = pd.DataFrame({"id":ids_combined,"content":contents_combined}) 
     data_combined = data_combined[['id','content']]
+    data = data_combined
     #print data[:3]
+   
 
     # use jieba to split words 
     word_generater =  data['content'].apply(jieba.cut)
@@ -177,6 +185,7 @@ def main():
     # step 1. split content
     file_path = DATA_PATH + "id_post0_sample.txt" 
     dataframe = split_words(file_path) 
+    print dataframe
     # step 2. get index document
     index_document_dict,documents_num,word_list = index_document(dataframe) 
     print index_document_dict.items()[:10]
@@ -186,6 +195,7 @@ def main():
     idf_dict =  idf(word_list,documents_num,index_document_dict)
     # step 4. tf-idf
     tf_idf_dict = tf_idf(dataframe,idf_dict) 
+    print _str_replace("ä½ å¥½,123,ä½ å¥½,asdq")
     
     
     
