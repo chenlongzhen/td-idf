@@ -87,8 +87,8 @@ def split_words(infile):
     def concat_str(data):
         """ concat same id's content"""
         #print content
-        print map(unicode,data['content'])
-        return "".join(data['content'].values)
+        content_list =  map(unicode,data['content'])
+        return "".join(content_list)
     
     # read
     print "--- read data ---"
@@ -111,7 +111,7 @@ def split_words(infile):
     
     word_generater =  data['content'].apply(jieba.cut)
     word_cut_list = word_generater.apply(list) # unicode type
-    print word_cut_list
+    #print word_cut_list
 
     # save
     data['content'] = word_cut_list.apply(_unicodelist_to_str)
