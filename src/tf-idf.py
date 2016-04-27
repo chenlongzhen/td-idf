@@ -87,7 +87,7 @@ def split_words(infile):
     def concat_str(data):
         """ concat same id's content"""
         #print content
-        print data['content']
+        print map(unicode,data['content'])
         return "".join(data['content'].values)
     
     # read
