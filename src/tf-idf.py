@@ -10,6 +10,7 @@ import jieba.analyse
 from optparse import OptionParser
 import pandas as pd
 from collections import defaultdict
+import numpy as np
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -90,8 +91,11 @@ def split_words(infile):
         return "".join(data['content'].values)
     
     # read
-    data = pd.read_table(infile,sep = "\t",names=['id','content'],encoding='utf-8')
+    print "--- read data ---"
+    data = pd.read_table(infile,sep = "\t",names=['id','content'],encoding='utf-8',dtype={'id':np.str,'content':np.str})
     #print data
+    print "--- combine same id's content ---"
+    data = pd.read_table(infile,sep = "\t",names=['id','content'],encoding='utf-8')
     combined_data = data.groupby('id').apply(concat_str)
     # sub
     ##################data_subbed = combined_data.apply(_str_replace)
@@ -104,6 +108,7 @@ def split_words(infile):
    
 
     # use jieba to split words 
+    
     word_generater =  data['content'].apply(jieba.cut)
     word_cut_list = word_generater.apply(list) # unicode type
     print word_cut_list
