@@ -187,7 +187,8 @@ if __name__ == "__main__":
     logger.setLevel(logging.DEBUG)
     
     # create console handler and set level to debug
-    ch = TimedRotatingFileHandler(ROOTPATH + "/../log/main.log",when='D')
+    #ch = TimedRotatingFileHandler(ROOTPATH + "/../log/main.log",when='D')
+    ch = TimedRotatingFileHandler("/home/chenlongzhen/IdeaProjects/td-idf/log/main.log",when='D')
     ch.setLevel(logging.DEBUG)
     
     # create formatter
@@ -208,5 +209,5 @@ if __name__ == "__main__":
     pool.map(process,file_list)
     pool.close()
 
-    
+    #process(file_list[0])    
     
