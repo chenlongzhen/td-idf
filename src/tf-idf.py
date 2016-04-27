@@ -188,18 +188,25 @@ def tf_idf(dataframe,idf_dict,topk = 5):
     
 
 def main():
-    # step 1. split content
+    # load dict
+    print "---load word dict ---"
+    jieba.load_userdict(DATA_PATH + "id_word.data") 
+    #   step 1. split content
+    print "---begin to read and split ---"
     file_path = DATA_PATH + "id_post0_sample.txt" 
     dataframe = split_words(file_path) 
     #print dataframe
+    print "---construct index document ---"
     # step 2. get index document
     index_document_dict,documents_num,word_list = index_document(dataframe) 
     #print index_document_dict.items()[:10]
     #print documents_num
     #print word_list[:10]
     # step 3. idf
+    print "--- begin to count idf ---"
     idf_dict =  idf(word_list,documents_num,index_document_dict)
     # step 4. tf-idf
+    print "--- begin to count tfidf ---"
     tf_idf_dict = tf_idf(dataframe,idf_dict) 
     #print _str_replace("ä½ å¥½,123,ä½ å¥½,asdq")
     
