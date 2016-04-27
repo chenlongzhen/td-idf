@@ -183,7 +183,7 @@ def tf_idf(dataframe,idf_dict,topk = 5):
 
 def main():
     # step 1. split content
-    file_path = DATA_PATH + "id_post0_sample.txt" 
+    file_path = DATA_PATH + "id_post0.txt" 
     dataframe = split_words(file_path) 
     print dataframe
     # step 2. get index document
@@ -195,7 +195,7 @@ def main():
     idf_dict =  idf(word_list,documents_num,index_document_dict)
     # step 4. tf-idf
     tf_idf_dict = tf_idf(dataframe,idf_dict) 
-    print _str_replace("ä½ å¥½,123,ä½ å¥½,asdq")
+    #print _str_replace("ä½ å¥½,123,ä½ å¥½,asdq")
     
     
     
