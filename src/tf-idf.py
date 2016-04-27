@@ -48,7 +48,7 @@ def _str_replace(content):
     words = pattern.sub("",content.encode("utf-8"))
     #terms = [word for word in pattern.split(content)]
     #processed_content =  "".join(terms)
-    print words
+    #print words
     return words
 
 def _unicodelist_to_str(word_list):
@@ -86,6 +86,7 @@ def split_words(infile):
     def concat_str(data):
         """ concat same id's content"""
         #print content
+        print data['content']
         return "".join(data['content'].values)
     
     # read
@@ -183,14 +184,14 @@ def tf_idf(dataframe,idf_dict,topk = 5):
 
 def main():
     # step 1. split content
-    file_path = DATA_PATH + "id_post0.txt" 
+    file_path = DATA_PATH + "id_post0_sample.txt" 
     dataframe = split_words(file_path) 
-    print dataframe
+    #print dataframe
     # step 2. get index document
     index_document_dict,documents_num,word_list = index_document(dataframe) 
-    print index_document_dict.items()[:10]
-    print documents_num
-    print word_list[:10]
+    #print index_document_dict.items()[:10]
+    #print documents_num
+    #print word_list[:10]
     # step 3. idf
     idf_dict =  idf(word_list,documents_num,index_document_dict)
     # step 4. tf-idf
