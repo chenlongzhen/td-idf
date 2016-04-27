@@ -1,0 +1,45 @@
+nohup: 忽略输入
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.253 seconds.
+Prefix dict has been built succesfully.
+---load word dict ---
+Traceback (most recent call last):
+  File "tf-idf.py", line 243, in <module>
+    main()
+  File "tf-idf.py", line 193, in main
+    jieba.load_userdict(DATA_PATH + "id_word.data") 
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/jieba/__init__.py", line 374, in load_userdict
+    f = open(f, 'rb')
+IOError: [Errno 2] No such file or directory: '/home/longzhen/user_tagging/user_idf_ir/src/../data/id_word.data'
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.245 seconds.
+Prefix dict has been built succesfully.
+---load word dict ---
+---begin to read and split ---
+--- read data ---
+Traceback (most recent call last):
+  File "tf-idf.py", line 243, in <module>
+    main()
+  File "tf-idf.py", line 197, in main
+    dataframe = split_words(file_path) 
+  File "tf-idf.py", line 95, in split_words
+    data = pd.read_table(infile,sep = "\t",names=['id','content'],encoding='utf-8',dtype={'id':np.str,'content':np.str})
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/pandas/io/parsers.py", line 529, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/pandas/io/parsers.py", line 295, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/pandas/io/parsers.py", line 612, in __init__
+    self._make_engine(self.engine)
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/pandas/io/parsers.py", line 747, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/longzhen/.pyenv/versions/miniconda2-latest/lib/python2.7/site-packages/pandas/io/parsers.py", line 1119, in __init__
+    self._reader = _parser.TextReader(src, **kwds)
+  File "pandas/parser.pyx", line 353, in pandas.parser.TextReader.__cinit__ (pandas/parser.c:3246)
+  File "pandas/parser.pyx", line 591, in pandas.parser.TextReader._setup_parser_source (pandas/parser.c:6111)
+IOError: File /home/longzhen/user_tagging/user_idf_ir/src/../data/id_post0_sample.txt does not exist
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.244 seconds.
+Prefix dict has been built succesfully.

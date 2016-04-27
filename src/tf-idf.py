@@ -187,8 +187,8 @@ if __name__ == "__main__":
     logger.setLevel(logging.DEBUG)
     
     # create console handler and set level to debug
-    #ch = TimedRotatingFileHandler(ROOTPATH + "/../log/main.log",when='D')
-    ch = TimedRotatingFileHandler("/home/chenlongzhen/IdeaProjects/td-idf/log/main.log",when='D')
+    ch = TimedRotatingFileHandler(ROOTPATH + "/../log/main.log",when='D')
+    #ch = TimedRotatingFileHandler("/home/chenlongzhen/IdeaProjects/td-idf/log/main.log",when='D')
     ch.setLevel(logging.DEBUG)
     
     # create formatter
@@ -199,10 +199,13 @@ if __name__ == "__main__":
     logger.addHandler(ch)
     
     ## thread pool
-    file_res_path = "/home/chenlongzhen/IdeaProjects/td-idf/data/id_post"     
+    #file_res_path = "/home/chenlongzhen/IdeaProjects/td-idf/data/id_post"     
+    file_res_path = ROOT_PATH + "/../data/id_post"     
     file_list = glob.glob(file_res_path + "/*")
     logger.info("id_post files:")
     logger.info("\n".join(file_list))
+    print "file:"
+    print file_list
     
     pool = Pool(2)
     processes = pool._pool
