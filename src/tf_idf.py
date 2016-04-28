@@ -29,7 +29,7 @@ def file_process(FILE_PATH):
     idf_dict = defaultdict(int) # word : document(id) num
     tf_dict = defaultdict(list) # id : [words num of document, {word:num}]
     id_num = 0  # we should combine contents have same id, so one id is one document
-    logger.info("Start processing,  the file names is \n {file}".format(file = DATA_PATH))
+    logger.info("Start processing,  the file names is \n {file}".format(file = FILE_PATH))
     with codecs.open(FILE_PATH,'r','utf-8') as rfile:
         for n,line in enumerate(rfile):
             if n % trunk == 0:
