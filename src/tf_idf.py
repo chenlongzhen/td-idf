@@ -14,7 +14,7 @@ import os
 from operator import itemgetter
 import pickle,glob
 from collections import defaultdict
-trunk = 10
+trunk = 1000000
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
     FILE_LIST = glob.glob(DATA_PATH + "/*")
