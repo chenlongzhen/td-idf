@@ -183,11 +183,7 @@ if __name__ == "__main__":
     FILE_LISTS = _glob_files(ID_POST_PATH)
     print FILE_LISTS
     ## 1.process file
-    pool = Pool(3)
-    processes = pool._pool
-    pool.map(file_process,FILE_LISTS)
-    pool.close()
-    #file_process(FILE_LISTS[0])
+    map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
     combine_idf(IDF_PATH)
