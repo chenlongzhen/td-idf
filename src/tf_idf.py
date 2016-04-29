@@ -1,4 +1,4 @@
-﻿#coding=utf-8
+#encoding=utf-8
 '''
 Created on 2015年10月31日
 
@@ -14,6 +14,10 @@ import os
 from operator import itemgetter
 import pickle,glob
 from collections import defaultdict
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+print sys.getdefaultencoding()
 trunk = 1000000
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
@@ -30,7 +34,7 @@ def file_process(FILE_PATH):
     tf_dict = defaultdict(list) # id : [words num of document, {word:num}]
     id_num = 0  # we should combine contents have same id, so one id is one document
     logger.info("Start processing,  the file names is \n {file}".format(file = FILE_PATH))
-    with codecs.open(FILE_PATH,'r','utf-8') as rfile:
+    with codecs.open(FILE_PATH,'r','utf-8','ignore') as rfile:
         for n,line in enumerate(rfile):
             if n % trunk == 0:
                 logger.info("{num} lines processed".format(num = n))
@@ -96,12 +100,15 @@ def combine_idf(IDF_PATH):
     idf_dict_final = _get_pickle(IDF_FILE_LIST[0]) 
 
     if len(IDF_FILE_LIST) == 1:
+        logger.info("Start combining {file}".format(file = file_name))
         _save_pickle(idf_dict_final,IDF_PATH+"/idf.pkl") 
         return idf_dict_final 
 
     for file_name in IDF_FILE_LIST[1:]:
+        logger.info("Start combining {file}".format(file = file_name))
         dif_dict =  _get_pickle(file_name)
         for key,value in dif_dict.items():
+            
             idf_dict_final[key] += value
     _save_pickle(idf_dict_final,IDF_PATH+"/idf.pkl") 
     return idf_dict_final 
@@ -117,9 +124,9 @@ def tf_idf(TF_PATH , IDF_PATH , topK = 5, idf_dict_final=None,weight = True):
     TF_FILE_LIST = _glob_files(TF_PATH) 
     logger.info("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
     #print("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
-    wfile = codecs.open(TF_IDF_PATH + "/tf_idf.data","w")
+    wfile = codecs.open(TF_IDF_PATH + "/tf_idf.data","w",'utf-8','ignore')
     for file_name in TF_FILE_LIST:
-        logger.info("Start calculating tf-idf,  the file names is \n {file}".format(file = file_name))
+        logger.info("Start calculating tf-idf,  the file name is \n {file}".format(file = file_name))
         tf_dict = _get_pickle(file_name) # id : [numm , {word:num ...}]
         #print tf_dict
         count = 0
@@ -144,12 +151,12 @@ def tf_idf(TF_PATH , IDF_PATH , topK = 5, idf_dict_final=None,weight = True):
                     strs += k + ":" + str(v) + " " 
                 str_line = id + "\t" + strs + "\n"
                 #print str_line.encode("utf-8")
-                wfile.write(str_line.encode("utf-8"))
+                wfile.write(str_line.encode("utf-8",'ignore'))
             else:
                 tags = sorted(tf_idf_dict, key=tf_idf_dict.__getitem__,reverse=True)        
                 topK_tags = tags[:topK] 
                 str_line = id + "\t" + " ".join(topK_tags) + "\n"
-                wfile.write(str_line.encode('utf-8'))
+                wfile.write(str_line.encode('utf-8','ignore'))
                 #print (str_line.encode('utf-8'))
     wfile.close()
                  
@@ -186,7 +193,7 @@ if __name__ == "__main__":
     map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
-    combine_idf(IDF_PATH)
+    #combine_idf(IDF_PATH)
     ## 3. tf_idf
     tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=True)
 
