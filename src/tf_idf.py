@@ -18,7 +18,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 print sys.getdefaultencoding()
-trunk = 1000000
+trunk = 10000
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
     FILE_LIST = glob.glob(DATA_PATH + "/*")
@@ -88,7 +88,8 @@ def _get_pickle(file_path):
 def _save_pickle(data,file_path):
     with open(file_path,'wb') as f:
         pickle.dump(data,f)
-    return 0
+    return 0 
+
                  
 def combine_idf(IDF_PATH):
     '''
@@ -97,13 +98,17 @@ def combine_idf(IDF_PATH):
     IDF_FILE_LIST = glob.glob(IDF_PATH + "/*_idf.pkl") 
     logger.info("Start combining,  the file names is \n {file}".format(file = ",".join(IDF_FILE_LIST)))
 
-    idf_dict_final = _get_pickle(IDF_FILE_LIST[0]) 
 
     if len(IDF_FILE_LIST) == 1:
-        logger.info("Start combining {file}".format(file = file_name))
-        _save_pickle(idf_dict_final,IDF_PATH+"/idf.pkl") 
-        return idf_dict_final 
-
+        logger.info("Only 1  {file}, no need to combine".format(file = IDF_FILE_LIST[0]))
+        #_save_pickle(idf_dict_final,IDF_PATH+"/idf.pkl") 
+        cmd = "cp {ffile} {tfile}".format(ffile=IDF_FILE_LIST[0],tfile=IDF_PATH + "/idf.pkl")
+        logger.info(cmd)
+        status = os.system(cmd)
+        return 0 
+    
+    logger.info("Start combining {file}".format(file = IDF_FILE_LIST[0]))
+    idf_dict_final = _get_pickle(IDF_FILE_LIST[0]) 
     for file_name in IDF_FILE_LIST[1:]:
         logger.info("Start combining {file}".format(file = file_name))
         dif_dict =  _get_pickle(file_name)
@@ -111,7 +116,7 @@ def combine_idf(IDF_PATH):
             
             idf_dict_final[key] += value
     _save_pickle(idf_dict_final,IDF_PATH+"/idf.pkl") 
-    return idf_dict_final 
+    return 0 
      
             
 def tf_idf(TF_PATH , IDF_PATH , topK = 5, idf_dict_final=None,weight = True):
@@ -133,6 +138,7 @@ def tf_idf(TF_PATH , IDF_PATH , topK = 5, idf_dict_final=None,weight = True):
         for id, value in tf_dict.iteritems():
             if count % trunk == 0:
                 logger.info("{num} ids processed".format(num = count))
+            count += 1
 
             tf_idf_dict = defaultdict(float) 
             # id's words num 
@@ -193,7 +199,7 @@ if __name__ == "__main__":
     map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
-    #combine_idf(IDF_PATH)
+    combine_idf(IDF_PATH)
     ## 3. tf_idf
     tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=True)
 
