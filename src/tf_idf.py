@@ -4,6 +4,7 @@ Created on 2015年10月31日
 
 @author: lipd
 '''
+from __future__ import unicode_literals
 from __future__ import absolute_import
 from logging.handlers import TimedRotatingFileHandler
 from multiprocessing import Pool
@@ -196,10 +197,10 @@ if __name__ == "__main__":
     FILE_LISTS = _glob_files(ID_POST_PATH)
     print FILE_LISTS
     ## 1.process file
-    map(file_process,FILE_LISTS)
+    #map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
-    combine_idf(IDF_PATH)
+    #combine_idf(IDF_PATH)
     ## 3. tf_idf
     tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=True)
 
