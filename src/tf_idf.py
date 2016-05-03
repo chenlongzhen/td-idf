@@ -10,7 +10,7 @@ from logging.handlers import TimedRotatingFileHandler
 from multiprocessing import Pool
 import re,sys,logging,codecs
 import jieba
-import jieba.posseg
+import jieba.posseg as pseg
 import os
 from operator import itemgetter
 import pickle,glob
@@ -26,7 +26,7 @@ def _glob_files(DATA_PATH):
     return FILE_LIST 
 
 
-def file_process(FILE_PATH):
+def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'uj',u'q',u'y',u'p',u'c',u'r']):
     '''
     To calculate  the file's idf and tf  , save idf file to lOCALPATH(data/idf,tf)
     !!! Here , idf is the frequecy in the post file,  so tf-idf = tf / idf * the number of ids(set to 1)
@@ -45,9 +45,13 @@ def file_process(FILE_PATH):
                 continue
             id_index = tokens[0]
             content = tokens[1]
- 
             # cut words
-            words = list(jieba.cut(content))
+            cut_words = pseg.cut(content)
+            words = [] 
+            cut_words =  list(cut_words)
+            for word,flag in  cut_words:
+                if not flag in noPOS:
+                    words.append(word) 
             words_num = len(words)
             # drop duplicate 
             words_set = list(set(words))
@@ -197,10 +201,10 @@ if __name__ == "__main__":
     FILE_LISTS = _glob_files(ID_POST_PATH)
     print FILE_LISTS
     ## 1.process file
-    #map(file_process,FILE_LISTS)
+    map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
-    #combine_idf(IDF_PATH)
+    combine_idf(IDF_PATH)
     ## 3. tf_idf
     tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=True)
 
