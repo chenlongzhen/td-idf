@@ -11,11 +11,12 @@ from multiprocessing import Pool
 import re,sys,logging,codecs
 import jieba
 import jieba.posseg as pseg
-import os
+import os,ConfigParser
 from operator import itemgetter
 import pickle,glob
 from collections import defaultdict
 import sys
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 print sys.getdefaultencoding()
@@ -35,41 +36,48 @@ def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'
     tf_dict = defaultdict(list) # id : [words num of document, {word:num}]
     id_num = 0  # we should combine contents have same id, so one id is one document
     logger.info("Start processing,  the file names is \n {file}".format(file = FILE_PATH))
-    with codecs.open(FILE_PATH,'r','utf-8','ignore') as rfile:
-        for n,line in enumerate(rfile):
-            if n % trunk == 0:
-                logger.info("{num} lines processed".format(num = n))
+    ## test
+    rfile = codecs.open(FILE_PATH,'r','utf-8','ignore').read()
+    #print rfile.encode("utf-8")
+    lines = rfile.split("\r\n")
+    #print lines[:10]
+    #with codecs.open(FILE_PATH,'r','utf-8','ignore') as rfile:
+    count = 0
+    for line in lines:
+        count += 1
+        if count % trunk == 0:
+            logger.info("{num} lines processed".format(num = n))
 
-            tokens = line.strip().split('\t')
-            if not len(tokens) == 2:
-                continue
-            id_index = tokens[0]
-            content = tokens[1]
-            # cut words
-            cut_words = pseg.cut(content)
-            words = [] 
-            cut_words =  list(cut_words)
-            for word,flag in  cut_words:
-                if not flag in noPOS:
-                    words.append(word) 
-            words_num = len(words)
-            # drop duplicate 
-            words_set = list(set(words))
-            # count id's words
-            if not id_index in tf_dict:
-                # init 
-                tf_dict[id_index] = [0,{}]     
-            tf_dict[id_index][0] += words_num
-             
-            for word in words_set:
-                # if word comes from sameid , do not add
-                if not word in tf_dict[id_index][1]:
-                    # if the word in this id has not been count , add
-                    idf_dict[word] += 1
+        tokens = line.strip().split('\t')
+        if not len(tokens) == 2:
+            continue
+        id_index = tokens[0]
+        content = tokens[1]
+        # cut words
+        cut_words = pseg.cut(content)
+        words = [] 
+        cut_words =  list(cut_words)
+        for word,flag in  cut_words:
+            if not flag in noPOS:
+                words.append(word) 
+        words_num = len(words)
+        # drop duplicate 
+        words_set = list(set(words))
+        # count id's words
+        if not id_index in tf_dict:
+            # init 
+            tf_dict[id_index] = [0,{}]     
+        tf_dict[id_index][0] += words_num
+         
+        for word in words_set:
+            # if word comes from sameid , do not add
+            if not word in tf_dict[id_index][1]:
+                # if the word in this id has not been count , add
+                idf_dict[word] += 1
 
-                tf_dict[id_index][1][word] = tf_dict[id_index][1].get(word,0) + words.count(word)
-                
-        
+            tf_dict[id_index][1][word] = tf_dict[id_index][1].get(word,0) + words.count(word)
+            
+    
     file_base_name = os.path.basename(FILE_PATH)
     idf_path = os.path.dirname(FILE_PATH) + "/../idf/" + file_base_name + "_idf.pkl"
     tf_path = os.path.dirname(FILE_PATH) + "/../tf/" + file_base_name + "_tf.pkl"
@@ -183,6 +191,7 @@ if __name__ == "__main__":
     TF_PATH = DATA_PATH + "/tf/"
     TF_IDF_PATH = DATA_PATH + "/tf_idf/"
     LOG_PATH = ROOT_PATH + "/../log/main.log"
+    CONFIG_PATH = ROOT_PATH + "/../config/"
 
     ## logging 
     # set logger
@@ -200,11 +209,14 @@ if __name__ == "__main__":
  
     FILE_LISTS = _glob_files(ID_POST_PATH)
     print FILE_LISTS
+    ## config
+    config = ConfigParser.ConfigParser()
+    config.read(CONFIG_PATH)
     ## 1.process file
     map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
     combine_idf(IDF_PATH)
     ## 3. tf_idf
-    tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=True)
+    tf_idf(TF_PATH=TF_PATH, IDF_PATH = IDF_PATH + '/idf.pkl',weight=False)
 
