@@ -5,13 +5,13 @@ Created on 2015年10月31日
 @author: lipd
 '''
 from __future__ import absolute_import
-import re
+import re,sys
 import jieba
 import jieba.posseg
 import os
 from operator import itemgetter
 import pickle
-jieba.load_userdict("userdict.txt")
+#jieba.load_userdict("userdict.txt")
 
 class IrIndex:
     """An in-memory inverted index"""
@@ -52,6 +52,7 @@ class IrIndex:
 
 
     def set_new_path(self, new_idf_path):
+        print "read idf file {}".format(new_idf_path)
         if self.path != new_idf_path:
             self.path = new_idf_path
             content = open(new_idf_path, 'rb').read().decode('utf-8')
@@ -65,7 +66,7 @@ class IrIndex:
     def get_idf(self):
         return self.idf_freq, self.median_idf
     
-    def extract_tags(self, sentence, topK=50, withWeight=True,allowPOS=()):
+    def extract_tags(self, sentence, id_word_path,topK=50, withWeight=True,allowPOS=()):
         """
         Extract keywords from sentence using TF-IDF algorithm.
         Parameter:
@@ -82,7 +83,7 @@ class IrIndex:
             words = self.tokenizer.cut(sentence)
         freq = {}
         #将抽取的keyword转化成数字ID
-        self.word2index('id_word.txt')
+        self.word2index(id_word_path)
         for w in words:
             if allowPOS:
                 if w.flag not in allowPOS:
@@ -146,16 +147,18 @@ class IrIndex:
             print("\tFailed!")
             return None
                 
-    def create_tfidf_list(self):
+    def create_tfidf_list(self,id_word_path,idf_path):
         #print self.index_docs
         self.user_idf={}
-        self.set_new_path('weibo_tfidf_1029.txt')
+        self.set_new_path(idf_path)
         #self.idf_freq, self.median_idf = self.get_idf()
         for id in self.index_docs.keys():
-            x=self.extract_tags(self.index_docs[id])
+            x=self.extract_tags(self.index_docs[id],id_word_path)
             self.user_idf[id]=x
         #print self.user_idf
-        self.dumpUser_idf(self.user_idf,'user_idf_1101.pkl')
+        basename = os.path.basename(idf_path)
+        dir_name = os.path.dirname(basename)
+        self.dumpUser_idf(self.user_idf,dir_name + basename + "_idf.pkl")
         #print self.loadExtUser_idf('user_idf_1031.pkl')
 
         #print self.idf_freq, self.median_idf
@@ -165,9 +168,24 @@ index = IrIndex()
 #index.index_document('01',"非常")
 #index.index_document('01',"姚明  垃圾 很好机器人口 Clos de Beze 2005, Bourgogne, France")
 #index.index_document('02',"Bruno Clair Chambertin Clos de Beze 2005, Bourgogne, France")
-inClient = open('weibo.txt','r')
-for line in inClient:
-    id_index_doc=line.strip().split('\t')[0]
-    words=line.strip().split('\t')[-1]
-    index.index_document(id_index_doc,words)
-index.create_tfidf_list()
+ROOT_PATH = sys.path[0]
+DATA_PATH = ROOT_PATH + "/../data/"
+DICT_PATH = DATA_PATH + "/word_dict/"
+ID_POST_PATH = DATA_PATH + "/id_post/"
+IDF_PATH = DATA_PATH + "/idf/"
+TF_PATH = DATA_PATH + "/tf/"
+TF_IDF_PATH = DATA_PATH + "/tf_idf/"
+LOG_PATH = ROOT_PATH + "/../log/main.log"
+CONFIG_PATH = ROOT_PATH + "/../config/"
+
+inClient = open(ID_POST_PATH + 'id_post0_sample.txt','r')
+count = 0
+with open(ID_POST_PATH + 'id_post0_sample.txt','r') as inClient:
+    for line in inClient:
+        count += 1
+        if count % 100 == 0:
+            print "{} lines counted.".format(count) 
+        id_index_doc=line.strip().split('\t')[0]
+        words=line.strip().split('\t')[-1]
+        index.index_document(id_index_doc,words)
+index.create_tfidf_list(id_word_path= DICT_PATH + "id_word.txt",idf_path = IDF_PATH + "weibo_tfidf_1029.txt")
