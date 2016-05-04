@@ -80,12 +80,13 @@ def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'
             id_index = tokens[0]
             content = tokens[1]
             # cut words
-            cut_words = pseg.cut(content)
-            words = []
-            cut_words =  list(cut_words)
-            for word,flag in  cut_words:
-                if not flag in noPOS:
-                    words.append(word)
+           # cut_words = pseg.cut(content)
+           # words = []
+           # cut_words =  list(cut_words)
+           # for word,flag in  cut_words:
+           #     if not flag in noPOS:
+           #         words.append(word)
+            words = list(jieba.cut(content))
             words_num = len(words)
             # drop duplicate
             words_set = list(set(words))
@@ -155,12 +156,16 @@ def tf_idf(TF_PATH ,idf_dict_final, topK = 5, weight = True):
                 print id
                 word_dict = tokens[1]
                 for word_tf in word_dict.split(" "):
-                    word_tf =  word_tf.split(":")
+                    word_tf =  word_tf.strip().split(":")
                     if len(word_tf) != 2:
                         continue
-                    #print idf_dict_final
-                    #print word_tf
-                    tf_idf_dict[word_tf[0]] = float(word_tf[1])/idf_dict_final[word_tf[0]]
+                    #print word_tf[0].encode('utf-8')
+                    #print idf_dict_final[word_tf[0]]
+                    #print word_tf[1].encode('utf-8')
+                    idf_value =  float(idf_dict_final[word_tf[0]])
+                    if idf_value == 0:
+                        continue
+                    tf_idf_dict[word_tf[0]] = float(word_tf[1])/idf_value
         
                 if  weight:
                     tags = sorted(tf_idf_dict.items(), key=lambda d:d[1],reverse=True)
