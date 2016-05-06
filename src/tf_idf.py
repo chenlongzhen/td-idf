@@ -12,7 +12,7 @@ import jieba.posseg as pseg
 import time
 reload(sys)
 sys.setdefaultencoding('utf-8')
-trunk = 10000
+trunk = 1000
 
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
@@ -25,14 +25,22 @@ def save_dict(my_dict,save_path,mode = 'tf'):
     idf : word\tidf
     tf : id\tword1:tf word2:tf
     """
+    logger.info("begin to save {}".format(mode))
     with codecs.open(save_path,'w','utf-8','ignore') as wfile:
+        count = 0 
         if not mode == 'tf':
             for k,v in my_dict.items():
+                count += 1
+                if count % trunk == 0:
+                    logger.info("{} lines idf processed".format(count))
                 strs = k + "\t" + str(v) + "\n"
                 strs=strs.encode('utf-8')
                 wfile.write(strs)    
         else:
             for k,v in my_dict.items():
+                count += 1
+                if count % trunk == 0:
+                    logger.info("{} lines if processed".format(count))
                 strs = str(k) + "\t"
                 total_words = v[0]
                 for ik,iv in v[1].items():
