@@ -6,7 +6,7 @@ from logging.handlers import TimedRotatingFileHandler
 from multiprocessing import Pool
 from collections import defaultdict
 import os,ConfigParser,codecs,logging,glob
-import sys
+import sys,re
 import jieba
 import jieba.posseg as pseg
 reload(sys)
@@ -51,6 +51,20 @@ def read_idf_dict(read_path):
            tokens = line.split("\t")        
            idf_dict[tokens[0]] = int(tokens[1])            
     return idf_dict
+
+def find_chinese(content):
+    ''' '''
+    pattern = re.compile("http.+")
+    result,number = pattern.subn(u'',content)
+    if result:
+        #cont = m.string
+        #print cont.encode("utf-8")
+        return result 
+    else:
+        return None
+    
+ 
+    
         
 
 def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'uj',u'q',u'y',u'p',u'c',u'r']):
@@ -79,6 +93,8 @@ def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'
                 continue
             id_index = tokens[0]
             content = tokens[1]
+            # replace http.+
+            content = find_chinese(content)
             # cut words
            # cut_words = pseg.cut(content)
            # words = []
@@ -220,7 +236,7 @@ if __name__ == "__main__":
     config = ConfigParser.ConfigParser()
     config.read(CONFIG_PATH)
     ## 1.process file
-    #map(file_process,FILE_LISTS)
+    map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
     idf_dict = combine_idf(IDF_PATH)
