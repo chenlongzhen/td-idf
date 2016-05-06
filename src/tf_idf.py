@@ -6,9 +6,10 @@ from logging.handlers import TimedRotatingFileHandler
 from multiprocessing import Pool
 from collections import defaultdict
 import os,ConfigParser,codecs,logging,glob
-import sys,re
+import sys,re,argparse
 import jieba
 import jieba.posseg as pseg
+import time
 reload(sys)
 sys.setdefaultencoding('utf-8')
 trunk = 10000
@@ -64,7 +65,22 @@ def find_chinese(content):
         return None
     
  
-    
+def get_newfile_list(file_list):
+    '''get new file for processing '''
+    try:
+        timestamp = float(open(TIME_STAMP_PATH,'r').read())
+    except :
+        logger.error("TypeError! timestamp is setted to 0")
+        print("TypeError! timestamp is setted to 0")
+        timestamp = 0
+         
+    print "timestamp:" + str(timestamp)
+    new_file_list = []
+    for name in file_list:
+        if os.path.getmtime(name) > timestamp:
+            new_file_list.append(name)       
+    return new_file_list
+        
         
 
 def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'uj',u'q',u'y',u'p',u'c',u'r']):
@@ -133,8 +149,8 @@ def combine_idf(IDF_PATH):
     Combine every file's idf data
     '''
     IDF_FILE_LIST = glob.glob(IDF_PATH + "/*_idf.data")
+    #IDF_FILE_LIST =  get_newfile_list(IDF_FILE_LIST)
     logger.info("Start combining,  the file names is \n {file}".format(file = ",".join(IDF_FILE_LIST)))
-
 
     if len(IDF_FILE_LIST) == 1:
         logger.info("Only 1  {file}, no need to combine".format(file = IDF_FILE_LIST[0]))
@@ -154,24 +170,26 @@ def combine_idf(IDF_PATH):
             idf_dict_final[key] += value
     return idf_dict_final
 
-def tf_idf(TF_PATH ,idf_dict_final, topK = 5, weight = True):
+def tf_idf(TF_PATH ,idf_dict_final, topK = 150, weight = True):
     '''
 
     '''
     TF_FILE_LIST = _glob_files(TF_PATH)
+    TF_FILE_LIST =  get_newfile_list(TF_FILE_LIST)
     logger.info("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
     #print("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
     wfile = codecs.open(TF_IDF_PATH + "/tf_idf.data","w",'utf-8','ignore')
     for file_name in TF_FILE_LIST:
         logger.info("Start calculating tf-idf,  the file name is \n {file}".format(file = file_name))
         with codecs.open(file_name,'r','utf-8','ignore') as rfile:
-            for line in rfile:
+            for n,line in enumerate(rfile):
+                if n % trunk == 0:
+                    logger.info("{} ids has been processed! ".format(n)) 
                 tf_idf_dict = defaultdict(float)
                 tokens = line.split("\t")        
                 if len(tokens) != 2:
                     continue
                 id = tokens[0]
-                print id
                 word_dict = tokens[1]
                 for word_tf in word_dict.split(" "):
                     word_tf =  word_tf.strip().split(":")
@@ -191,20 +209,33 @@ def tf_idf(TF_PATH ,idf_dict_final, topK = 5, weight = True):
                     strs = ''
                     for tupl in topK_tags:
                         k,v = tupl
-                        strs += k + ":" + str(v) + " "
-                    str_line = id + "\t" + strs + "\n"
-                    #print str_line.encode("utf-8")
-                    wfile.write(str_line.encode("utf-8",'ignore'))
+                        str_line = id + " " + k + " " + str(v)  + "\n"
+                        #print str_line.encode("utf-8")
+                        wfile.write(str_line.encode("utf-8",'ignore'))
                 else:
                     tags = sorted(tf_idf_dict, key=tf_idf_dict.__getitem__,reverse=True)
                     topK_tags = tags[:topK]
-                    str_line = id + "\t" + " ".join(topK_tags) + "\n"
-                    wfile.write(str_line.encode('utf-8','ignore'))
-                    #print (str_line.encode('utf-8'))
+                    for tag in topK_tags:
+                        str_line = id + " " + tag + "\n"
+                        wfile.write(str_line.encode('utf-8','ignore'))
+                        #print (str_line.encode('utf-8'))
     wfile.close()
 
 
 if __name__ == "__main__":
+    ## sys args
+    ## Parse arguments
+    parser = argparse.ArgumentParser(description = "td idf ")
+    parser.add_argument('-t','--topK', action ='store',type = int,
+                        default = 150, help = "tf idf topK ")
+    parser.add_argument('-p','--processes', action ='store',type = int,
+                        default = 3, help = "processes' num")
+    parser.add_argument('-w','--weight', action ='store',type = bool,
+                        default = 1, help = "if print weight")
+    args = parser.parse_args()
+    topK = args.topK
+    N_PROCESSES = args.processes
+    weight = args.weight
 
     ## set path
     ROOT_PATH = sys.path[0]
@@ -217,6 +248,7 @@ if __name__ == "__main__":
     LOG_PATH = ROOT_PATH + "/../log/main.log"
     CONFIG_PATH = ROOT_PATH + "/../config/"
     #LOG_PATH = ROOT_PATH + "/home/chenlongzhen/IdeaProjects/td-idf/log/main.log"
+    TIME_STAMP_PATH = DATA_PATH + "/timestamp"
 
     ## logging
     # set logger
@@ -233,15 +265,41 @@ if __name__ == "__main__":
     logger.addHandler(ch)
 
     FILE_LISTS = _glob_files(ID_POST_PATH)
-    print FILE_LISTS
+    #print FILE_LISTS
+    FILE_LISTS = get_newfile_list(FILE_LISTS)
+    if len(FILE_LISTS) == 0:
+        logger.info("NO NEW FILES , EXIT!")
+        print("NO NEW FILES , EXIT!")
+        exit(0)
+    #print FILE_LISTS
     ## config
     config = ConfigParser.ConfigParser()
     config.read(CONFIG_PATH)
-    ## 1.process file
-    map(file_process,FILE_LISTS)
+    ## param
+    logger.info("************************************************************")
+    logger.info("Parameters")
+    logger.info("    topK: %d" % topK)
+    logger.info("    weight: %d" % weight)
+    logger.info("    N_processes: %d" % N_PROCESSES)
+    logger.info("    files:")
+    for name in FILE_LISTS:
+        logger.info("    %s" %name)
+    logger.info("************************************************************")
+    #orino# 1.process file
+    #map(file_process,FILE_LISTS)
+    pool = Pool(N_PROCESSES)
+    processes = pool._pool
+    pool.map(file_process,FILE_LISTS)
+    pool.close()
+    time.sleep(1)
 
     ## 2. combine_idf
     idf_dict = combine_idf(IDF_PATH)
     ## 3. tf_idf
-    tf_idf(TF_PATH=TF_PATH, idf_dict_final = idf_dict,weight=False)
+    tf_idf(TF_PATH=TF_PATH, idf_dict_final = idf_dict,weight=weight,topK=topK)
 
+    # refresh stamp
+    with open(TIME_STAMP_PATH,'w') as infile:
+        infile.write(str(time.time()))
+    logger.info("*"*80)
+    print "finish !"
