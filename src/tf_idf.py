@@ -11,7 +11,7 @@ import jieba
 import jieba.posseg as pseg
 reload(sys)
 sys.setdefaultencoding('utf-8')
-trunk = 100
+trunk = 10000
 
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
@@ -220,7 +220,7 @@ if __name__ == "__main__":
     config = ConfigParser.ConfigParser()
     config.read(CONFIG_PATH)
     ## 1.process file
-    map(file_process,FILE_LISTS)
+    #map(file_process,FILE_LISTS)
 
     ## 2. combine_idf
     idf_dict = combine_idf(IDF_PATH)
