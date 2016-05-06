@@ -95,6 +95,8 @@ def file_process(FILE_PATH,noPOS = [u'x',u'd',u'f',u'ws',u'wp',u'o',u'm',u'u',u'
             content = tokens[1]
             # replace http.+
             content = find_chinese(content)
+            if not content:
+                continue
             # cut words
            # cut_words = pseg.cut(content)
            # words = []
