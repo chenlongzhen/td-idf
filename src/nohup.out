@@ -1,0 +1,9 @@
+timestamp:1462524189.0
+Building prefix dict from the default dictionary ...
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.247 seconds.
+Loading model cost 0.247 seconds.
+Prefix dict has been built succesfully.
+Prefix dict has been built succesfully.

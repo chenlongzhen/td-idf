@@ -12,7 +12,7 @@ import jieba.posseg as pseg
 import time
 reload(sys)
 sys.setdefaultencoding('utf-8')
-trunk = 1000
+trunk = 10000
 
 def _glob_files(DATA_PATH):
     """Get all files in DATA_PATH, return a file list"""
@@ -31,7 +31,7 @@ def save_dict(my_dict,save_path,mode = 'tf'):
         if not mode == 'tf':
             for k,v in my_dict.items():
                 count += 1
-                if count % trunk == 0:
+                if count % (trunk/10) == 0:
                     logger.info("{} lines idf processed".format(count))
                 strs = k + "\t" + str(v) + "\n"
                 strs=strs.encode('utf-8')
@@ -39,7 +39,7 @@ def save_dict(my_dict,save_path,mode = 'tf'):
         else:
             for k,v in my_dict.items():
                 count += 1
-                if count % trunk == 0:
+                if count % (trunk/10) == 0:
                     logger.info("{} lines if processed".format(count))
                 strs = str(k) + "\t"
                 total_words = v[0]
@@ -240,10 +240,13 @@ if __name__ == "__main__":
                         default = 3, help = "processes' num")
     parser.add_argument('-w','--weight', action ='store',type = bool,
                         default = 1, help = "if print weight")
+    parser.add_argument('-s','--step', action ='store',type = bool,
+                        default = 0, help = "process steps, 0: from process to tf_idf,1:process every files tf and idf,2:calculating tf_idf")
     args = parser.parse_args()
     topK = args.topK
     N_PROCESSES = args.processes
     weight = args.weight
+    step = args.step
 
     ## set path
     ROOT_PATH = sys.path[0]
@@ -286,6 +289,7 @@ if __name__ == "__main__":
     ## param
     logger.info("************************************************************")
     logger.info("Parameters")
+    logger.info("    step: %d" % step)
     logger.info("    topK: %d" % topK)
     logger.info("    weight: %d" % weight)
     logger.info("    N_processes: %d" % N_PROCESSES)
@@ -293,21 +297,24 @@ if __name__ == "__main__":
     for name in FILE_LISTS:
         logger.info("    %s" %name)
     logger.info("************************************************************")
-    #orino# 1.process file
-    #map(file_process,FILE_LISTS)
-    pool = Pool(N_PROCESSES)
-    processes = pool._pool
-    pool.map(file_process,FILE_LISTS)
-    pool.close()
-    time.sleep(1)
+    
+    if step == 0 or step == 1:
+        # 1.process file
+        map(file_process,FILE_LISTS)
+        pool = Pool(N_PROCESSES)
+        processes = pool._pool
+        pool.map(file_process,FILE_LISTS)
+        pool.close()
+        time.sleep(1)
+        print 'finish processing!'
+    else if step == 2:
+        ## 2. combine_idf
+        idf_dict = combine_idf(IDF_PATH)
+        ## 3. tf_idf
+        tf_idf(TF_PATH=TF_PATH, idf_dict_final = idf_dict,weight=weight,topK=topK)
 
-    ## 2. combine_idf
-    idf_dict = combine_idf(IDF_PATH)
-    ## 3. tf_idf
-    tf_idf(TF_PATH=TF_PATH, idf_dict_final = idf_dict,weight=weight,topK=topK)
-
-    # refresh stamp
-    with open(TIME_STAMP_PATH,'w') as infile:
-        infile.write(str(time.time()))
-    logger.info("*"*80)
-    print "finish !"
+        # refresh stamp
+        with open(TIME_STAMP_PATH,'w') as infile:
+            infile.write(str(time.time()))
+        logger.info("*"*80)
+        print "finish all!"
