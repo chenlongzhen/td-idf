@@ -73,13 +73,13 @@ def find_chinese(content):
         return None
     
  
-def get_newfile_list(file_list):
+def get_newfile_list(file_list,TIME_STAMP_PATH):
     '''get new file for processing '''
     try:
         timestamp = float(open(TIME_STAMP_PATH,'r').read())
     except :
-        logger.error("TypeError! timestamp is setted to 0")
-        print("TypeError! timestamp is setted to 0")
+        logger.error("no timestamp! timestamp is setted to 0")
+        print("no timestamp! timestamp is setted to 0")
         timestamp = 0
          
     print "timestamp:" + str(timestamp)
@@ -183,7 +183,12 @@ def tf_idf(TF_PATH ,idf_dict_final, topK = 150, weight = True):
 
     '''
     TF_FILE_LIST = _glob_files(TF_PATH)
-    TF_FILE_LIST =  get_newfile_list(TF_FILE_LIST)
+    TF_FILE_LIST =  get_newfile_list(TF_FILE_LIST,TIME_STAMP_PATH_TF_IDF)
+    if len(TF_FILE_LIST) == 0:
+        logger.info("NO NEW TF FILES , EXIT!")
+        print("NO NEW TF FILES , EXIT!")
+        exit(0)
+    
     logger.info("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
     #print("TF_FILE: \n {files}".format(files=",".join(TF_FILE_LIST)))
     wfile = codecs.open(TF_IDF_PATH + "/tf_idf.data","w",'utf-8','ignore')
@@ -240,7 +245,7 @@ if __name__ == "__main__":
                         default = 3, help = "processes' num")
     parser.add_argument('-w','--weight', action ='store',type = bool,
                         default = 1, help = "if print weight")
-    parser.add_argument('-s','--step', action ='store',type = bool,
+    parser.add_argument('-s','--step', action ='store',type = int,
                         default = 0, help = "process steps, 0: from process to tf_idf,1:process every files tf and idf,2:calculating tf_idf")
     args = parser.parse_args()
     topK = args.topK
@@ -259,7 +264,8 @@ if __name__ == "__main__":
     LOG_PATH = ROOT_PATH + "/../log/main.log"
     CONFIG_PATH = ROOT_PATH + "/../config/"
     #LOG_PATH = ROOT_PATH + "/home/chenlongzhen/IdeaProjects/td-idf/log/main.log"
-    TIME_STAMP_PATH = DATA_PATH + "/timestamp"
+    TIME_STAMP_PATH_TF_IDF = DATA_PATH + "/timestamp_tf_idf"
+    TIME_STAMP_PATH_PROCESS = DATA_PATH + "/timestamp_process"
 
     ## logging
     # set logger
@@ -275,14 +281,8 @@ if __name__ == "__main__":
     # add ch to logger
     logger.addHandler(ch)
 
+    #print FILE_LISTS
     FILE_LISTS = _glob_files(ID_POST_PATH)
-    #print FILE_LISTS
-    FILE_LISTS = get_newfile_list(FILE_LISTS)
-    if len(FILE_LISTS) == 0:
-        logger.info("NO NEW FILES , EXIT!")
-        print("NO NEW FILES , EXIT!")
-        exit(0)
-    #print FILE_LISTS
     ## config
     config = ConfigParser.ConfigParser()
     config.read(CONFIG_PATH)
@@ -299,6 +299,12 @@ if __name__ == "__main__":
     logger.info("************************************************************")
     
     if step == 0 or step == 1:
+        #print FILE_LISTS
+        FILE_LISTS = get_newfile_list(FILE_LISTS,TIME_STAMP_PATH_PROCESS)
+        if len(FILE_LISTS) == 0:
+            logger.info("NO NEW POST FILES , EXIT!")
+            print("NO NEW POST FILES , EXIT!")
+            exit(0)
         # 1.process file
         map(file_process,FILE_LISTS)
         pool = Pool(N_PROCESSES)
@@ -306,15 +312,17 @@ if __name__ == "__main__":
         pool.map(file_process,FILE_LISTS)
         pool.close()
         time.sleep(1)
+        with open(TIME_STAMP_PATH_PROCESS,'w') as infile:
+            infile.write(str(time.time()))
         print 'finish processing!'
-    else if step == 2:
+    if step ==0 or step == 2:
         ## 2. combine_idf
         idf_dict = combine_idf(IDF_PATH)
         ## 3. tf_idf
         tf_idf(TF_PATH=TF_PATH, idf_dict_final = idf_dict,weight=weight,topK=topK)
 
         # refresh stamp
-        with open(TIME_STAMP_PATH,'w') as infile:
+        with open(TIME_STAMP_PATH_TF_IDF,'w') as infile:
             infile.write(str(time.time()))
         logger.info("*"*80)
         print "finish all!"
