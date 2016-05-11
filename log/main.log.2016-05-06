@@ -1,0 +1,477 @@
+2016-05-06 02:04:09,332 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:09,337 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:04:09,426 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:09,544 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:09,567 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:04:09,630 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:23,723 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:23,723 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:04:23,744 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:23,771 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:23,771 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:04:23,797 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:36,578 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:36,578 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:04:36,599 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:04:36,627 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:36,627 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:04:36,652 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:04:58,492 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:05:22,479 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:06:59,163 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:07:29,255 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:08:52,176 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:09:19,595 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:09:56,556 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:09:57,846 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:09:58,854 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:09:58,854 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:09:58,875 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:09:58,901 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:09:58,901 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:09:58,926 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:10:20,694 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:10:38,413 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:10:39,685 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:16:11,922 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:16:26,663 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:16:36,634 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:17:04,634 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:17:05,949 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:17:33,161 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:17:34,339 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:17:35,301 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:17:35,301 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:17:35,321 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:17:35,347 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:17:35,348 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:17:35,372 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:26:52,991 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:27:09,541 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:27:10,748 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:27:11,707 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:27:11,707 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:27:11,727 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:27:11,752 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:27:11,752 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:27:11,777 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:27:36,441 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:27:37,694 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:27:38,658 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:27:38,658 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:27:38,679 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:27:38,704 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:27:38,705 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:27:38,729 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:31:44,864 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:31:46,144 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:33:25,038 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:33:25,984 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:33:26,685 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:33:26,685 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:33:26,703 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:33:26,725 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:33:26,725 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:33:26,748 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:39:03,061 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 02:39:04,051 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 02:39:04,824 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:39:04,824 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 02:39:04,844 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 02:39:04,867 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 02:39:04,868 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 02:39:04,892 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 04:52:54,600 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 04:52:56,015 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 04:52:56,756 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 04:52:56,756 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 04:52:56,775 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 04:52:56,799 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 04:52:56,799 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 04:52:56,823 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 06:31:07,076 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 06:31:24,935 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 06:31:45,418 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 06:51:48,616 INFO - ************************************************************
+2016-05-06 06:51:48,616 INFO - Parameters
+2016-05-06 06:51:48,616 INFO -     topK: 150
+2016-05-06 06:51:48,618 INFO -     N_processes: 3
+2016-05-06 06:51:48,618 INFO -     files:
+2016-05-06 06:51:48,618 INFO - ************************************************************
+2016-05-06 06:51:49,718 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 06:51:49,719 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 06:51:49,763 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 06:52:42,653 INFO - ************************************************************
+2016-05-06 06:52:42,653 INFO - Parameters
+2016-05-06 06:52:42,653 INFO -     topK: 150
+2016-05-06 06:52:42,654 INFO -     N_processes: 3
+2016-05-06 06:52:42,654 INFO -     files:
+2016-05-06 06:52:42,654 INFO - ************************************************************
+2016-05-06 06:52:43,739 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 06:52:43,740 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 06:52:43,789 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 06:52:43,826 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 06:52:43,826 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 06:52:43,880 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:01:14,206 INFO - ************************************************************
+2016-05-06 07:01:14,206 INFO - Parameters
+2016-05-06 07:01:14,206 INFO -     topK: 150
+2016-05-06 07:01:14,206 INFO -     N_processes: 3
+2016-05-06 07:01:14,206 INFO -     files:
+2016-05-06 07:01:14,207 INFO - ************************************************************
+2016-05-06 07:01:15,226 INFO - Start combining,  the file names is 
+ 
+2016-05-06 07:03:19,176 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:04:27,620 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:04:27,621 INFO - ************************************************************
+2016-05-06 07:04:27,621 INFO - Parameters
+2016-05-06 07:04:27,621 INFO -     topK: 150
+2016-05-06 07:04:27,621 INFO -     N_processes: 3
+2016-05-06 07:04:27,621 INFO -     files:
+2016-05-06 07:04:27,621 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:04:27,621 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/timestamp
+2016-05-06 07:04:27,621 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:04:27,621 INFO - ************************************************************
+2016-05-06 07:04:27,630 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:04:27,634 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/timestamp
+2016-05-06 07:04:27,635 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:04:33,038 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/timestamp_idf.data
+2016-05-06 07:04:33,039 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:04:33,080 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:04:33,105 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/timestamp_idf.data
+2016-05-06 07:04:33,106 INFO - TF_FILE: 
+ 
+2016-05-06 07:05:06,247 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:06:38,163 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:06:51,044 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:12:05,246 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:12:26,690 INFO - ************************************************************
+2016-05-06 07:12:26,690 INFO - Parameters
+2016-05-06 07:12:26,690 INFO -     topK: 150
+2016-05-06 07:12:26,690 INFO -     N_processes: 3
+2016-05-06 07:12:26,690 INFO -     files:
+2016-05-06 07:12:26,690 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:12:26,690 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/timestamp
+2016-05-06 07:12:26,690 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:12:26,690 INFO - ************************************************************
+2016-05-06 07:12:26,699 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:12:26,699 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/timestamp
+2016-05-06 07:12:26,699 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:12:28,700 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/timestamp_idf.data
+2016-05-06 07:12:28,701 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:12:28,750 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:12:28,778 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/timestamp_idf.data
+2016-05-06 07:12:28,779 INFO - TF_FILE: 
+ 
+2016-05-06 07:16:02,045 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:16:02,046 INFO - ************************************************************
+2016-05-06 07:16:02,046 INFO - Parameters
+2016-05-06 07:16:02,046 INFO -     topK: 150
+2016-05-06 07:16:02,046 INFO -     N_processes: 3
+2016-05-06 07:16:02,046 INFO -     files:
+2016-05-06 07:16:02,046 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:16:02,046 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:16:02,046 INFO - ************************************************************
+2016-05-06 07:16:02,055 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:16:02,055 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:16:04,101 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:16:04,102 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:16:04,158 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:16:04,187 INFO - TF_FILE: 
+ 
+2016-05-06 07:17:42,709 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:17:45,742 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:17:59,913 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:17:59,913 INFO - ************************************************************
+2016-05-06 07:17:59,914 INFO - Parameters
+2016-05-06 07:17:59,914 INFO -     topK: 150
+2016-05-06 07:17:59,914 INFO -     N_processes: 3
+2016-05-06 07:17:59,914 INFO -     files:
+2016-05-06 07:17:59,914 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:17:59,914 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:17:59,914 INFO - ************************************************************
+2016-05-06 07:17:59,923 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:17:59,923 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:18:01,970 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:18:01,971 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:18:01,973 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:18:02,038 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:18:02,066 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:18:02,066 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:18:02,066 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:22:36,552 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:22:36,552 INFO - ************************************************************
+2016-05-06 07:22:36,552 INFO - Parameters
+2016-05-06 07:22:36,552 INFO -     topK: 150
+2016-05-06 07:22:36,552 INFO -     weight: 1
+2016-05-06 07:22:36,552 INFO -     N_processes: 3
+2016-05-06 07:22:36,552 INFO -     files:
+2016-05-06 07:22:36,552 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:22:36,552 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:22:36,552 INFO - ************************************************************
+2016-05-06 07:22:36,561 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:22:36,561 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:22:38,668 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:22:38,669 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:22:38,669 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:22:38,720 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:22:38,748 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:22:38,748 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:22:38,748 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:23:24,067 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:23:24,067 INFO - ************************************************************
+2016-05-06 07:23:24,067 INFO - Parameters
+2016-05-06 07:23:24,067 INFO -     topK: 150
+2016-05-06 07:23:24,067 INFO -     weight: 1
+2016-05-06 07:23:24,067 INFO -     N_processes: 3
+2016-05-06 07:23:24,067 INFO -     files:
+2016-05-06 07:23:24,067 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:23:24,067 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:23:24,068 INFO - ************************************************************
+2016-05-06 07:23:24,076 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:23:24,076 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:23:26,099 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:23:26,101 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:23:26,101 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:23:26,151 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:23:26,177 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:23:26,178 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:23:26,178 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:23:26,213 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:23:50,680 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:25:58,714 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:25:59,037 INFO - ************************************************************
+2016-05-06 07:25:59,038 INFO - Parameters
+2016-05-06 07:25:59,038 INFO -     topK: 150
+2016-05-06 07:25:59,038 INFO -     weight: 1
+2016-05-06 07:25:59,038 INFO -     N_processes: 3
+2016-05-06 07:25:59,039 INFO -     files:
+2016-05-06 07:25:59,039 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:25:59,039 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:25:59,039 INFO - ************************************************************
+2016-05-06 07:25:59,071 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:25:59,072 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:26:01,157 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:26:01,157 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:26:01,201 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:26:01,227 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:26:01,228 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:26:01,228 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:26:01,259 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:28:14,553 INFO - NO NEW FILES , EXIT!
+2016-05-06 07:28:32,045 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:28:32,045 INFO - ************************************************************
+2016-05-06 07:28:32,046 INFO - Parameters
+2016-05-06 07:28:32,046 INFO -     topK: 150
+2016-05-06 07:28:32,046 INFO -     weight: 1
+2016-05-06 07:28:32,046 INFO -     N_processes: 3
+2016-05-06 07:28:32,046 INFO -     files:
+2016-05-06 07:28:32,046 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:28:32,046 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:28:32,047 INFO - ************************************************************
+2016-05-06 07:28:32,056 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:28:32,056 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:28:34,202 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:28:34,203 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:28:34,260 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:28:34,292 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:28:34,292 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:28:34,293 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:28:34,294 INFO - 0 ids has been processed! 
+2016-05-06 07:28:34,325 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:28:34,326 INFO - 0 ids has been processed! 
+2016-05-06 07:29:28,732 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:29:28,733 INFO - ************************************************************
+2016-05-06 07:29:28,733 INFO - Parameters
+2016-05-06 07:29:28,733 INFO -     topK: 150
+2016-05-06 07:29:28,733 INFO -     weight: 1
+2016-05-06 07:29:28,733 INFO -     N_processes: 3
+2016-05-06 07:29:28,733 INFO -     files:
+2016-05-06 07:29:28,733 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:29:28,733 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:29:28,733 INFO - ************************************************************
+2016-05-06 07:29:28,743 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 07:29:28,743 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 07:29:30,838 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:29:30,839 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 07:29:30,898 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 07:29:30,930 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 07:29:30,931 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:29:30,931 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 07:29:30,932 INFO - 0 ids has been processed! 
+2016-05-06 07:29:30,963 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 07:29:30,964 INFO - 0 ids has been processed! 
+2016-05-06 07:29:30,994 INFO - ********************************************************************************
+2016-05-06 08:34:03,852 INFO - NO NEW FILES , EXIT!
+2016-05-06 08:34:23,285 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 08:34:23,285 INFO - ************************************************************
+2016-05-06 08:34:23,285 INFO - Parameters
+2016-05-06 08:34:23,285 INFO -     topK: 150
+2016-05-06 08:34:23,285 INFO -     weight: 1
+2016-05-06 08:34:23,285 INFO -     N_processes: 3
+2016-05-06 08:34:23,285 INFO -     files:
+2016-05-06 08:34:23,285 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 08:34:23,285 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 08:34:23,285 INFO - ************************************************************
+2016-05-06 08:34:23,296 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-06 08:34:23,296 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-06 08:34:24,309 INFO - 1000 lines processed
+2016-05-06 08:34:24,310 INFO - begin to save idf
+2016-05-06 08:34:24,327 INFO - 1000 lines idf processed
+2016-05-06 08:34:24,331 INFO - 2000 lines idf processed
+2016-05-06 08:34:24,336 INFO - 3000 lines idf processed
+2016-05-06 08:34:24,341 INFO - 4000 lines idf processed
+2016-05-06 08:34:24,346 INFO - 5000 lines idf processed
+2016-05-06 08:34:24,349 INFO - 1000 lines processed
+2016-05-06 08:34:24,350 INFO - begin to save idf
+2016-05-06 08:34:24,351 INFO - 6000 lines idf processed
+2016-05-06 08:34:24,359 INFO - 7000 lines idf processed
+2016-05-06 08:34:24,364 INFO - 8000 lines idf processed
+2016-05-06 08:34:24,369 INFO - begin to save tf
+2016-05-06 08:34:24,371 INFO - 1000 lines idf processed
+2016-05-06 08:34:24,376 INFO - 2000 lines idf processed
+2016-05-06 08:34:24,381 INFO - 3000 lines idf processed
+2016-05-06 08:34:24,386 INFO - 4000 lines idf processed
+2016-05-06 08:34:24,390 INFO - 5000 lines idf processed
+2016-05-06 08:34:24,395 INFO - 6000 lines idf processed
+2016-05-06 08:34:24,400 INFO - 7000 lines idf processed
+2016-05-06 08:34:24,405 INFO - 8000 lines idf processed
+2016-05-06 08:34:24,410 INFO - begin to save tf
+2016-05-06 08:34:25,606 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 08:34:25,607 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-06 08:34:25,670 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-06 08:34:25,698 ERROR - TypeError! timestamp is setted to 0
+2016-05-06 08:34:25,698 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 08:34:25,698 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-06 08:34:25,700 INFO - 0 ids has been processed! 
+2016-05-06 08:34:25,730 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-06 08:34:25,732 INFO - 0 ids has been processed! 
+2016-05-06 08:34:25,764 INFO - ********************************************************************************
+2016-05-06 08:35:00,514 INFO - NO NEW FILES , EXIT!

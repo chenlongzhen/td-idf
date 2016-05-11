@@ -1,0 +1,537 @@
+2016-05-09 02:33:55,687 INFO - NO NEW FILES , EXIT!
+2016-05-09 02:34:08,038 INFO - NO NEW FILES , EXIT!
+2016-05-09 02:37:52,007 ERROR - TypeError! timestamp is setted to 0
+2016-05-09 02:37:52,007 INFO - ************************************************************
+2016-05-09 02:37:52,008 INFO - Parameters
+2016-05-09 02:37:52,008 INFO -     step: 0
+2016-05-09 02:37:52,008 INFO -     topK: 150
+2016-05-09 02:37:52,008 INFO -     weight: 1
+2016-05-09 02:37:52,008 INFO -     N_processes: 3
+2016-05-09 02:37:52,008 INFO -     files:
+2016-05-09 02:37:52,008 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:37:52,008 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:37:52,008 INFO - ************************************************************
+2016-05-09 02:37:52,008 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:37:53,060 INFO - begin to save idf
+2016-05-09 02:37:53,068 INFO - 1000 lines idf processed
+2016-05-09 02:37:53,073 INFO - 2000 lines idf processed
+2016-05-09 02:37:53,079 INFO - 3000 lines idf processed
+2016-05-09 02:37:53,084 INFO - 4000 lines idf processed
+2016-05-09 02:37:53,088 INFO - 5000 lines idf processed
+2016-05-09 02:37:53,093 INFO - 6000 lines idf processed
+2016-05-09 02:37:53,097 INFO - 7000 lines idf processed
+2016-05-09 02:37:53,102 INFO - 8000 lines idf processed
+2016-05-09 02:37:53,108 INFO - begin to save tf
+2016-05-09 02:37:53,270 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:37:53,894 INFO - begin to save idf
+2016-05-09 02:37:53,901 INFO - 1000 lines idf processed
+2016-05-09 02:37:53,906 INFO - 2000 lines idf processed
+2016-05-09 02:37:53,910 INFO - 3000 lines idf processed
+2016-05-09 02:37:53,914 INFO - 4000 lines idf processed
+2016-05-09 02:37:53,919 INFO - 5000 lines idf processed
+2016-05-09 02:37:53,924 INFO - 6000 lines idf processed
+2016-05-09 02:37:53,928 INFO - 7000 lines idf processed
+2016-05-09 02:37:53,933 INFO - 8000 lines idf processed
+2016-05-09 02:37:53,937 INFO - begin to save tf
+2016-05-09 02:37:54,119 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:37:54,120 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:37:55,306 INFO - begin to save idf
+2016-05-09 02:37:55,311 INFO - begin to save idf
+2016-05-09 02:37:55,360 INFO - 1000 lines idf processed
+2016-05-09 02:37:55,365 INFO - 2000 lines idf processed
+2016-05-09 02:37:55,368 INFO - 1000 lines idf processed
+2016-05-09 02:37:55,370 INFO - 3000 lines idf processed
+2016-05-09 02:37:55,372 INFO - 2000 lines idf processed
+2016-05-09 02:37:55,376 INFO - 4000 lines idf processed
+2016-05-09 02:37:55,378 INFO - 3000 lines idf processed
+2016-05-09 02:37:55,384 INFO - 5000 lines idf processed
+2016-05-09 02:37:55,387 INFO - 4000 lines idf processed
+2016-05-09 02:37:55,391 INFO - 6000 lines idf processed
+2016-05-09 02:37:55,392 INFO - 5000 lines idf processed
+2016-05-09 02:37:55,396 INFO - 7000 lines idf processed
+2016-05-09 02:37:55,397 INFO - 6000 lines idf processed
+2016-05-09 02:37:55,401 INFO - 8000 lines idf processed
+2016-05-09 02:37:55,401 INFO - 7000 lines idf processed
+2016-05-09 02:37:55,406 INFO - 8000 lines idf processed
+2016-05-09 02:37:55,406 INFO - begin to save tf
+2016-05-09 02:37:55,411 INFO - begin to save tf
+2016-05-09 02:38:36,047 ERROR - TypeError! timestamp is setted to 0
+2016-05-09 02:38:36,047 INFO - ************************************************************
+2016-05-09 02:38:36,047 INFO - Parameters
+2016-05-09 02:38:36,048 INFO -     step: 1
+2016-05-09 02:38:36,048 INFO -     topK: 150
+2016-05-09 02:38:36,048 INFO -     weight: 1
+2016-05-09 02:38:36,048 INFO -     N_processes: 3
+2016-05-09 02:38:36,048 INFO -     files:
+2016-05-09 02:38:36,048 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:38:36,048 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:38:36,048 INFO - ************************************************************
+2016-05-09 02:38:36,048 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:38:36,954 INFO - begin to save idf
+2016-05-09 02:38:36,961 INFO - 1000 lines idf processed
+2016-05-09 02:38:36,965 INFO - 2000 lines idf processed
+2016-05-09 02:38:36,970 INFO - 3000 lines idf processed
+2016-05-09 02:38:36,974 INFO - 4000 lines idf processed
+2016-05-09 02:38:36,979 INFO - 5000 lines idf processed
+2016-05-09 02:38:36,983 INFO - 6000 lines idf processed
+2016-05-09 02:38:36,987 INFO - 7000 lines idf processed
+2016-05-09 02:38:36,992 INFO - 8000 lines idf processed
+2016-05-09 02:38:36,996 INFO - begin to save tf
+2016-05-09 02:38:37,161 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:38:37,743 INFO - begin to save idf
+2016-05-09 02:38:37,749 INFO - 1000 lines idf processed
+2016-05-09 02:38:37,754 INFO - 2000 lines idf processed
+2016-05-09 02:38:37,758 INFO - 3000 lines idf processed
+2016-05-09 02:38:37,763 INFO - 4000 lines idf processed
+2016-05-09 02:38:37,768 INFO - 5000 lines idf processed
+2016-05-09 02:38:37,772 INFO - 6000 lines idf processed
+2016-05-09 02:38:37,777 INFO - 7000 lines idf processed
+2016-05-09 02:38:37,781 INFO - 8000 lines idf processed
+2016-05-09 02:38:37,786 INFO - begin to save tf
+2016-05-09 02:38:37,963 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:38:37,964 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:38:38,635 INFO - begin to save idf
+2016-05-09 02:38:38,635 INFO - begin to save idf
+2016-05-09 02:38:38,643 INFO - 1000 lines idf processed
+2016-05-09 02:38:38,643 INFO - 1000 lines idf processed
+2016-05-09 02:38:38,647 INFO - 2000 lines idf processed
+2016-05-09 02:38:38,648 INFO - 2000 lines idf processed
+2016-05-09 02:38:38,652 INFO - 3000 lines idf processed
+2016-05-09 02:38:38,653 INFO - 3000 lines idf processed
+2016-05-09 02:38:38,656 INFO - 4000 lines idf processed
+2016-05-09 02:38:38,657 INFO - 4000 lines idf processed
+2016-05-09 02:38:38,662 INFO - 5000 lines idf processed
+2016-05-09 02:38:38,662 INFO - 5000 lines idf processed
+2016-05-09 02:38:38,667 INFO - 6000 lines idf processed
+2016-05-09 02:38:38,667 INFO - 6000 lines idf processed
+2016-05-09 02:38:38,671 INFO - 7000 lines idf processed
+2016-05-09 02:38:38,671 INFO - 7000 lines idf processed
+2016-05-09 02:38:38,676 INFO - 8000 lines idf processed
+2016-05-09 02:38:38,676 INFO - 8000 lines idf processed
+2016-05-09 02:38:38,681 INFO - begin to save tf
+2016-05-09 02:38:38,681 INFO - begin to save tf
+2016-05-09 02:40:58,515 ERROR - TypeError! timestamp is setted to 0
+2016-05-09 02:40:58,516 INFO - ************************************************************
+2016-05-09 02:40:58,516 INFO - Parameters
+2016-05-09 02:40:58,516 INFO -     step: 1
+2016-05-09 02:40:58,516 INFO -     topK: 150
+2016-05-09 02:40:58,516 INFO -     weight: 1
+2016-05-09 02:40:58,516 INFO -     N_processes: 3
+2016-05-09 02:40:58,516 INFO -     files:
+2016-05-09 02:40:58,516 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:40:58,517 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:40:58,517 INFO - ************************************************************
+2016-05-09 02:40:58,517 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:40:59,300 INFO - begin to save idf
+2016-05-09 02:40:59,307 INFO - 1000 lines idf processed
+2016-05-09 02:40:59,311 INFO - 2000 lines idf processed
+2016-05-09 02:40:59,315 INFO - 3000 lines idf processed
+2016-05-09 02:40:59,319 INFO - 4000 lines idf processed
+2016-05-09 02:40:59,323 INFO - 5000 lines idf processed
+2016-05-09 02:40:59,327 INFO - 6000 lines idf processed
+2016-05-09 02:40:59,332 INFO - 7000 lines idf processed
+2016-05-09 02:40:59,336 INFO - 8000 lines idf processed
+2016-05-09 02:40:59,340 INFO - begin to save tf
+2016-05-09 02:40:59,502 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:41:00,058 INFO - begin to save idf
+2016-05-09 02:41:00,063 INFO - 1000 lines idf processed
+2016-05-09 02:41:00,068 INFO - 2000 lines idf processed
+2016-05-09 02:41:00,072 INFO - 3000 lines idf processed
+2016-05-09 02:41:00,076 INFO - 4000 lines idf processed
+2016-05-09 02:41:00,080 INFO - 5000 lines idf processed
+2016-05-09 02:41:00,084 INFO - 6000 lines idf processed
+2016-05-09 02:41:00,088 INFO - 7000 lines idf processed
+2016-05-09 02:41:00,092 INFO - 8000 lines idf processed
+2016-05-09 02:41:00,096 INFO - begin to save tf
+2016-05-09 02:41:00,278 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:41:00,283 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:41:01,175 INFO - begin to save idf
+2016-05-09 02:41:01,176 INFO - begin to save idf
+2016-05-09 02:41:01,201 INFO - 1000 lines idf processed
+2016-05-09 02:41:01,203 INFO - 1000 lines idf processed
+2016-05-09 02:41:01,205 INFO - 2000 lines idf processed
+2016-05-09 02:41:01,208 INFO - 2000 lines idf processed
+2016-05-09 02:41:01,212 INFO - 3000 lines idf processed
+2016-05-09 02:41:01,217 INFO - 3000 lines idf processed
+2016-05-09 02:41:01,221 INFO - 4000 lines idf processed
+2016-05-09 02:41:01,223 INFO - 4000 lines idf processed
+2016-05-09 02:41:01,225 INFO - 5000 lines idf processed
+2016-05-09 02:41:01,228 INFO - 5000 lines idf processed
+2016-05-09 02:41:01,230 INFO - 6000 lines idf processed
+2016-05-09 02:41:01,232 INFO - 6000 lines idf processed
+2016-05-09 02:41:01,234 INFO - 7000 lines idf processed
+2016-05-09 02:41:01,237 INFO - 7000 lines idf processed
+2016-05-09 02:41:01,239 INFO - 8000 lines idf processed
+2016-05-09 02:41:01,241 INFO - 8000 lines idf processed
+2016-05-09 02:41:01,245 INFO - begin to save tf
+2016-05-09 02:41:01,245 INFO - begin to save tf
+2016-05-09 02:43:31,655 ERROR - TypeError! timestamp is setted to 0
+2016-05-09 02:43:31,656 INFO - ************************************************************
+2016-05-09 02:43:31,656 INFO - Parameters
+2016-05-09 02:43:31,656 INFO -     step: 2
+2016-05-09 02:43:31,656 INFO -     topK: 150
+2016-05-09 02:43:31,656 INFO -     weight: 1
+2016-05-09 02:43:31,656 INFO -     N_processes: 3
+2016-05-09 02:43:31,656 INFO -     files:
+2016-05-09 02:43:31,656 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:43:31,656 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:43:31,656 INFO - ************************************************************
+2016-05-09 02:43:31,657 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:43:31,657 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 02:43:31,676 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:43:31,702 ERROR - TypeError! timestamp is setted to 0
+2016-05-09 02:43:31,702 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:43:31,702 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-09 02:43:31,704 INFO - 0 ids has been processed! 
+2016-05-09 02:43:31,733 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:43:31,735 INFO - 0 ids has been processed! 
+2016-05-09 02:43:31,819 INFO - ********************************************************************************
+2016-05-09 02:58:05,437 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 02:58:05,437 INFO - ************************************************************
+2016-05-09 02:58:05,437 INFO - Parameters
+2016-05-09 02:58:05,437 INFO -     step: 0
+2016-05-09 02:58:05,437 INFO -     topK: 150
+2016-05-09 02:58:05,437 INFO -     weight: 1
+2016-05-09 02:58:05,437 INFO -     N_processes: 3
+2016-05-09 02:58:05,437 INFO -     files:
+2016-05-09 02:58:05,437 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:58:05,438 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:58:05,438 INFO - ************************************************************
+2016-05-09 02:58:05,438 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:58:06,675 INFO - begin to save idf
+2016-05-09 02:58:06,681 INFO - 1000 lines idf processed
+2016-05-09 02:58:06,686 INFO - 2000 lines idf processed
+2016-05-09 02:58:06,690 INFO - 3000 lines idf processed
+2016-05-09 02:58:06,695 INFO - 4000 lines idf processed
+2016-05-09 02:58:06,699 INFO - 5000 lines idf processed
+2016-05-09 02:58:06,703 INFO - 6000 lines idf processed
+2016-05-09 02:58:06,707 INFO - 7000 lines idf processed
+2016-05-09 02:58:06,711 INFO - 8000 lines idf processed
+2016-05-09 02:58:06,715 INFO - begin to save tf
+2016-05-09 02:58:06,878 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:58:07,453 INFO - begin to save idf
+2016-05-09 02:58:07,458 INFO - 1000 lines idf processed
+2016-05-09 02:58:07,463 INFO - 2000 lines idf processed
+2016-05-09 02:58:07,467 INFO - 3000 lines idf processed
+2016-05-09 02:58:07,471 INFO - 4000 lines idf processed
+2016-05-09 02:58:07,475 INFO - 5000 lines idf processed
+2016-05-09 02:58:07,479 INFO - 6000 lines idf processed
+2016-05-09 02:58:07,483 INFO - 7000 lines idf processed
+2016-05-09 02:58:07,487 INFO - 8000 lines idf processed
+2016-05-09 02:58:07,492 INFO - begin to save tf
+2016-05-09 02:58:07,671 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:58:07,675 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:58:08,357 INFO - begin to save idf
+2016-05-09 02:58:08,357 INFO - begin to save idf
+2016-05-09 02:58:08,364 INFO - 1000 lines idf processed
+2016-05-09 02:58:08,365 INFO - 1000 lines idf processed
+2016-05-09 02:58:08,369 INFO - 2000 lines idf processed
+2016-05-09 02:58:08,369 INFO - 2000 lines idf processed
+2016-05-09 02:58:08,373 INFO - 3000 lines idf processed
+2016-05-09 02:58:08,374 INFO - 3000 lines idf processed
+2016-05-09 02:58:08,377 INFO - 4000 lines idf processed
+2016-05-09 02:58:08,379 INFO - 4000 lines idf processed
+2016-05-09 02:58:08,382 INFO - 5000 lines idf processed
+2016-05-09 02:58:08,384 INFO - 5000 lines idf processed
+2016-05-09 02:58:08,386 INFO - 6000 lines idf processed
+2016-05-09 02:58:08,388 INFO - 6000 lines idf processed
+2016-05-09 02:58:08,391 INFO - 7000 lines idf processed
+2016-05-09 02:58:08,393 INFO - 7000 lines idf processed
+2016-05-09 02:58:08,395 INFO - 8000 lines idf processed
+2016-05-09 02:58:08,397 INFO - 8000 lines idf processed
+2016-05-09 02:58:08,399 INFO - begin to save tf
+2016-05-09 02:58:08,402 INFO - begin to save tf
+2016-05-09 02:58:09,599 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:58:09,600 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 02:58:09,647 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:58:09,673 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 02:58:09,673 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:58:09,673 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-09 02:58:09,675 INFO - 0 ids has been processed! 
+2016-05-09 02:58:09,703 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:58:09,704 INFO - 0 ids has been processed! 
+2016-05-09 02:58:09,733 INFO - ********************************************************************************
+2016-05-09 02:59:12,078 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 02:59:12,078 INFO - ************************************************************
+2016-05-09 02:59:12,078 INFO - Parameters
+2016-05-09 02:59:12,078 INFO -     step: 0
+2016-05-09 02:59:12,078 INFO -     topK: 150
+2016-05-09 02:59:12,078 INFO -     weight: 1
+2016-05-09 02:59:12,078 INFO -     N_processes: 3
+2016-05-09 02:59:12,078 INFO -     files:
+2016-05-09 02:59:12,078 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:59:12,078 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:59:12,078 INFO - ************************************************************
+2016-05-09 02:59:12,078 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:59:12,876 INFO - begin to save idf
+2016-05-09 02:59:12,882 INFO - 1000 lines idf processed
+2016-05-09 02:59:12,887 INFO - 2000 lines idf processed
+2016-05-09 02:59:12,891 INFO - 3000 lines idf processed
+2016-05-09 02:59:12,895 INFO - 4000 lines idf processed
+2016-05-09 02:59:12,899 INFO - 5000 lines idf processed
+2016-05-09 02:59:12,903 INFO - 6000 lines idf processed
+2016-05-09 02:59:12,907 INFO - 7000 lines idf processed
+2016-05-09 02:59:12,912 INFO - 8000 lines idf processed
+2016-05-09 02:59:12,916 INFO - begin to save tf
+2016-05-09 02:59:13,078 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:59:13,652 INFO - begin to save idf
+2016-05-09 02:59:13,658 INFO - 1000 lines idf processed
+2016-05-09 02:59:13,662 INFO - 2000 lines idf processed
+2016-05-09 02:59:13,667 INFO - 3000 lines idf processed
+2016-05-09 02:59:13,671 INFO - 4000 lines idf processed
+2016-05-09 02:59:13,676 INFO - 5000 lines idf processed
+2016-05-09 02:59:13,680 INFO - 6000 lines idf processed
+2016-05-09 02:59:13,684 INFO - 7000 lines idf processed
+2016-05-09 02:59:13,689 INFO - 8000 lines idf processed
+2016-05-09 02:59:13,693 INFO - begin to save tf
+2016-05-09 02:59:13,872 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 02:59:13,873 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 02:59:14,510 INFO - begin to save idf
+2016-05-09 02:59:14,510 INFO - begin to save idf
+2016-05-09 02:59:14,518 INFO - 1000 lines idf processed
+2016-05-09 02:59:14,518 INFO - 1000 lines idf processed
+2016-05-09 02:59:14,522 INFO - 2000 lines idf processed
+2016-05-09 02:59:14,523 INFO - 2000 lines idf processed
+2016-05-09 02:59:14,526 INFO - 3000 lines idf processed
+2016-05-09 02:59:14,527 INFO - 3000 lines idf processed
+2016-05-09 02:59:14,531 INFO - 4000 lines idf processed
+2016-05-09 02:59:14,531 INFO - 4000 lines idf processed
+2016-05-09 02:59:14,535 INFO - 5000 lines idf processed
+2016-05-09 02:59:14,536 INFO - 5000 lines idf processed
+2016-05-09 02:59:14,540 INFO - 6000 lines idf processed
+2016-05-09 02:59:14,540 INFO - 6000 lines idf processed
+2016-05-09 02:59:14,544 INFO - 7000 lines idf processed
+2016-05-09 02:59:14,544 INFO - 7000 lines idf processed
+2016-05-09 02:59:14,548 INFO - 8000 lines idf processed
+2016-05-09 02:59:14,549 INFO - 8000 lines idf processed
+2016-05-09 02:59:14,553 INFO - begin to save tf
+2016-05-09 02:59:14,553 INFO - begin to save tf
+2016-05-09 02:59:15,748 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:59:15,749 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 02:59:15,808 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 02:59:15,837 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 02:59:15,838 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:59:15,838 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-09 02:59:15,839 INFO - 0 ids has been processed! 
+2016-05-09 02:59:15,869 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 02:59:15,871 INFO - 0 ids has been processed! 
+2016-05-09 02:59:15,900 INFO - ********************************************************************************
+2016-05-09 02:59:34,594 INFO - NO NEW FILES , EXIT!
+2016-05-09 02:59:40,343 INFO - NO NEW FILES , EXIT!
+2016-05-09 03:00:56,890 INFO - ************************************************************
+2016-05-09 03:00:56,891 INFO - Parameters
+2016-05-09 03:00:56,891 INFO -     step: 2
+2016-05-09 03:00:56,891 INFO -     topK: 150
+2016-05-09 03:00:56,891 INFO -     weight: 1
+2016-05-09 03:00:56,891 INFO -     N_processes: 3
+2016-05-09 03:00:56,891 INFO -     files:
+2016-05-09 03:04:38,785 INFO - ************************************************************
+2016-05-09 03:04:38,786 INFO - Parameters
+2016-05-09 03:04:38,786 INFO -     step: 2
+2016-05-09 03:04:38,786 INFO -     topK: 150
+2016-05-09 03:04:38,786 INFO -     weight: 1
+2016-05-09 03:04:38,786 INFO -     N_processes: 3
+2016-05-09 03:04:38,786 INFO -     files:
+2016-05-09 03:04:38,786 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:04:38,786 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:04:38,786 INFO - ************************************************************
+2016-05-09 03:04:38,786 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:04:38,786 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 03:04:38,806 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:04:38,830 INFO - TF_FILE: 
+ 
+2016-05-09 03:04:38,831 INFO - ********************************************************************************
+2016-05-09 03:04:43,149 INFO - ************************************************************
+2016-05-09 03:04:43,149 INFO - Parameters
+2016-05-09 03:04:43,149 INFO -     step: 2
+2016-05-09 03:04:43,149 INFO -     topK: 150
+2016-05-09 03:04:43,149 INFO -     weight: 1
+2016-05-09 03:04:43,149 INFO -     N_processes: 3
+2016-05-09 03:04:43,149 INFO -     files:
+2016-05-09 03:04:43,149 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:04:43,149 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:04:43,149 INFO - ************************************************************
+2016-05-09 03:04:43,149 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:04:43,150 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 03:04:43,169 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:04:43,195 INFO - TF_FILE: 
+ 
+2016-05-09 03:04:43,196 INFO - ********************************************************************************
+2016-05-09 03:08:56,830 INFO - ************************************************************
+2016-05-09 03:08:56,830 INFO - Parameters
+2016-05-09 03:08:56,830 INFO -     step: 2
+2016-05-09 03:08:56,830 INFO -     topK: 150
+2016-05-09 03:08:56,831 INFO -     weight: 1
+2016-05-09 03:08:56,831 INFO -     N_processes: 3
+2016-05-09 03:08:56,831 INFO -     files:
+2016-05-09 03:08:56,831 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:08:56,831 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:08:56,831 INFO - ************************************************************
+2016-05-09 03:08:56,831 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:08:56,831 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 03:08:56,850 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:08:56,876 INFO - TF_FILE: 
+ 
+2016-05-09 03:08:56,876 INFO - ********************************************************************************
+2016-05-09 03:09:15,991 INFO - ************************************************************
+2016-05-09 03:09:15,992 INFO - Parameters
+2016-05-09 03:09:15,992 INFO -     step: 2
+2016-05-09 03:09:15,992 INFO -     topK: 150
+2016-05-09 03:09:15,992 INFO -     weight: 1
+2016-05-09 03:09:15,992 INFO -     N_processes: 3
+2016-05-09 03:09:15,992 INFO -     files:
+2016-05-09 03:09:15,992 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:09:15,992 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:09:15,992 INFO - ************************************************************
+2016-05-09 03:09:15,992 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:09:15,993 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 03:09:16,012 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:09:16,037 INFO - TF_FILE: 
+ 
+2016-05-09 03:09:16,038 INFO - ********************************************************************************
+2016-05-09 03:11:26,097 INFO - ************************************************************
+2016-05-09 03:11:26,097 INFO - Parameters
+2016-05-09 03:11:26,097 INFO -     step: 2
+2016-05-09 03:11:26,097 INFO -     topK: 150
+2016-05-09 03:11:26,097 INFO -     weight: 1
+2016-05-09 03:11:26,097 INFO -     N_processes: 3
+2016-05-09 03:11:26,097 INFO -     files:
+2016-05-09 03:11:26,097 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:11:26,097 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:11:26,098 INFO - ************************************************************
+2016-05-09 03:11:26,098 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:11:26,098 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 03:11:26,118 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 03:11:26,143 INFO - NO NEW FILES , EXIT!
+2016-05-09 03:12:41,528 INFO - ************************************************************
+2016-05-09 03:12:41,528 INFO - Parameters
+2016-05-09 03:12:41,528 INFO -     step: 1
+2016-05-09 03:12:41,528 INFO -     topK: 150
+2016-05-09 03:12:41,528 INFO -     weight: 1
+2016-05-09 03:12:41,528 INFO -     N_processes: 3
+2016-05-09 03:12:41,528 INFO -     files:
+2016-05-09 03:12:41,528 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:12:41,528 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:12:41,528 INFO - ************************************************************
+2016-05-09 03:12:41,528 INFO - NO NEW POST FILES , EXIT!
+2016-05-09 03:12:45,507 INFO - ************************************************************
+2016-05-09 03:12:45,507 INFO - Parameters
+2016-05-09 03:12:45,507 INFO -     step: 0
+2016-05-09 03:12:45,507 INFO -     topK: 150
+2016-05-09 03:12:45,507 INFO -     weight: 1
+2016-05-09 03:12:45,507 INFO -     N_processes: 3
+2016-05-09 03:12:45,507 INFO -     files:
+2016-05-09 03:12:45,507 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 03:12:45,507 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 03:12:45,507 INFO - ************************************************************
+2016-05-09 03:12:45,508 INFO - NO NEW POST FILES , EXIT!
+2016-05-09 08:21:59,722 INFO - ************************************************************
+2016-05-09 08:21:59,722 INFO - Parameters
+2016-05-09 08:21:59,722 INFO -     step: 0
+2016-05-09 08:21:59,722 INFO -     topK: 150
+2016-05-09 08:21:59,722 INFO -     weight: 1
+2016-05-09 08:21:59,722 INFO -     N_processes: 3
+2016-05-09 08:21:59,722 INFO -     files:
+2016-05-09 08:21:59,722 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 08:21:59,722 INFO -     /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 08:21:59,722 INFO - ************************************************************
+2016-05-09 08:21:59,722 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 08:21:59,723 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 08:22:00,551 INFO - begin to save idf
+2016-05-09 08:22:00,557 INFO - 1000 lines idf processed
+2016-05-09 08:22:00,562 INFO - 2000 lines idf processed
+2016-05-09 08:22:00,567 INFO - 3000 lines idf processed
+2016-05-09 08:22:00,571 INFO - 4000 lines idf processed
+2016-05-09 08:22:00,575 INFO - 5000 lines idf processed
+2016-05-09 08:22:00,580 INFO - 6000 lines idf processed
+2016-05-09 08:22:00,584 INFO - 7000 lines idf processed
+2016-05-09 08:22:00,589 INFO - 8000 lines idf processed
+2016-05-09 08:22:00,593 INFO - begin to save tf
+2016-05-09 08:22:00,754 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 08:22:01,318 INFO - begin to save idf
+2016-05-09 08:22:01,325 INFO - 1000 lines idf processed
+2016-05-09 08:22:01,330 INFO - 2000 lines idf processed
+2016-05-09 08:22:01,334 INFO - 3000 lines idf processed
+2016-05-09 08:22:01,338 INFO - 4000 lines idf processed
+2016-05-09 08:22:01,343 INFO - 5000 lines idf processed
+2016-05-09 08:22:01,347 INFO - 6000 lines idf processed
+2016-05-09 08:22:01,351 INFO - 7000 lines idf processed
+2016-05-09 08:22:01,355 INFO - 8000 lines idf processed
+2016-05-09 08:22:01,360 INFO - begin to save tf
+2016-05-09 08:22:01,541 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-09 08:22:01,541 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-09 08:22:02,595 INFO - begin to save idf
+2016-05-09 08:22:02,596 INFO - begin to save idf
+2016-05-09 08:22:02,616 INFO - 1000 lines idf processed
+2016-05-09 08:22:02,617 INFO - 1000 lines idf processed
+2016-05-09 08:22:02,621 INFO - 2000 lines idf processed
+2016-05-09 08:22:02,622 INFO - 2000 lines idf processed
+2016-05-09 08:22:02,625 INFO - 3000 lines idf processed
+2016-05-09 08:22:02,626 INFO - 3000 lines idf processed
+2016-05-09 08:22:02,630 INFO - 4000 lines idf processed
+2016-05-09 08:22:02,631 INFO - 4000 lines idf processed
+2016-05-09 08:22:02,634 INFO - 5000 lines idf processed
+2016-05-09 08:22:02,636 INFO - 5000 lines idf processed
+2016-05-09 08:22:02,639 INFO - 6000 lines idf processed
+2016-05-09 08:22:02,641 INFO - 6000 lines idf processed
+2016-05-09 08:22:02,644 INFO - 7000 lines idf processed
+2016-05-09 08:22:02,645 INFO - 7000 lines idf processed
+2016-05-09 08:22:02,659 INFO - 8000 lines idf processed
+2016-05-09 08:22:02,659 INFO - 8000 lines idf processed
+2016-05-09 08:22:02,664 INFO - begin to save tf
+2016-05-09 08:22:02,664 INFO - begin to save tf
+2016-05-09 08:22:03,895 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 08:22:03,896 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-09 08:22:03,961 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-09 08:22:03,989 ERROR - no timestamp! timestamp is setted to 0
+2016-05-09 08:22:03,990 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 08:22:03,990 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-09 08:22:03,991 INFO - 0 ids has been processed! 
+2016-05-09 08:22:04,020 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-09 08:22:04,022 INFO - 0 ids has been processed! 
+2016-05-09 08:22:04,051 INFO - ********************************************************************************

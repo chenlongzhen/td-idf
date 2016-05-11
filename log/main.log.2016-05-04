@@ -1,0 +1,1740 @@
+2016-05-03 01:54:20,344 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 01:54:20,345 INFO - 0 lines processed
+2016-05-03 01:54:21,294 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 01:54:21,294 INFO - Only 1  /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl, no need to combine
+2016-05-03 01:54:21,295 INFO - cp /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf//idf.pkl
+2016-05-03 01:54:21,343 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 01:54:21,344 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 01:54:21,390 INFO - 0 ids processed
+2016-05-03 01:55:04,847 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 01:55:04,847 INFO - 0 lines processed
+2016-05-03 01:55:05,912 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 01:55:05,912 INFO - Only 1  /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl, no need to combine
+2016-05-03 01:55:05,912 INFO - cp /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf//idf.pkl
+2016-05-03 01:55:05,958 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 01:55:05,958 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 01:55:06,013 INFO - 0 ids processed
+2016-05-03 03:33:52,594 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:33:52,594 INFO - 0 lines processed
+2016-05-03 03:34:52,883 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:34:52,883 INFO - 0 lines processed
+2016-05-03 03:36:01,361 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:36:01,362 INFO - 0 lines processed
+2016-05-03 03:37:07,730 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:37:07,730 INFO - 0 lines processed
+2016-05-03 03:37:42,735 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:37:42,735 INFO - 0 lines processed
+2016-05-03 03:39:03,863 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:39:03,863 INFO - 0 lines processed
+2016-05-03 03:39:18,109 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:39:18,109 INFO - 0 lines processed
+2016-05-03 03:42:11,016 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:42:11,016 INFO - 0 lines processed
+2016-05-03 03:47:50,875 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:47:50,876 INFO - 0 lines processed
+2016-05-03 03:50:37,738 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:50:37,738 INFO - 0 lines processed
+2016-05-03 03:52:01,602 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:52:01,603 INFO - 0 lines processed
+2016-05-03 03:53:10,848 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:53:10,848 INFO - 0 lines processed
+2016-05-03 03:55:24,025 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 03:55:24,025 INFO - 0 lines processed
+2016-05-03 04:49:09,527 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 04:49:09,528 INFO - 0 lines processed
+2016-05-03 04:53:44,238 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 04:53:44,238 INFO - 0 lines processed
+2016-05-03 04:54:59,929 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 04:54:59,929 INFO - 0 lines processed
+2016-05-03 05:02:25,423 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:02:25,423 INFO - 0 lines processed
+2016-05-03 05:04:11,346 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:04:11,346 INFO - 0 lines processed
+2016-05-03 05:07:46,653 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:07:46,653 INFO - 0 lines processed
+2016-05-03 05:08:12,925 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:08:12,925 INFO - 0 lines processed
+2016-05-03 05:08:39,396 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:08:39,397 INFO - 0 lines processed
+2016-05-03 05:10:47,118 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:10:47,119 INFO - 0 lines processed
+2016-05-03 05:10:53,777 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:10:53,777 INFO - 0 lines processed
+2016-05-03 05:11:07,830 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:11:07,830 INFO - 0 lines processed
+2016-05-03 05:11:28,969 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:11:28,970 INFO - 0 lines processed
+2016-05-03 05:12:14,606 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:12:14,606 INFO - 0 lines processed
+2016-05-03 05:13:06,331 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:13:06,331 INFO - 0 lines processed
+2016-05-03 05:13:12,471 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:13:12,471 INFO - 0 lines processed
+2016-05-03 05:14:28,344 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:14:28,345 INFO - 0 lines processed
+2016-05-03 05:14:34,770 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:14:34,770 INFO - 0 lines processed
+2016-05-03 05:14:53,980 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:14:53,980 INFO - 0 lines processed
+2016-05-03 05:15:00,102 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:15:00,102 INFO - 0 lines processed
+2016-05-03 05:15:13,946 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:15:13,946 INFO - 0 lines processed
+2016-05-03 05:15:20,139 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:15:20,139 INFO - 0 lines processed
+2016-05-03 05:15:26,148 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 05:15:26,148 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 05:15:26,182 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 05:15:26,297 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 05:15:26,297 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 05:15:26,334 INFO - 0 ids processed
+2016-05-03 05:15:26,345 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 05:15:26,383 INFO - 0 ids processed
+2016-05-03 05:39:06,877 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 05:39:06,877 INFO - 0 lines processed
+2016-05-03 05:39:13,124 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 05:39:13,125 INFO - 0 lines processed
+2016-05-03 05:39:19,105 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 05:39:19,105 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 05:39:19,137 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 05:39:19,251 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 05:39:19,251 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 05:39:19,288 INFO - 0 ids processed
+2016-05-03 05:39:19,295 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 05:39:19,332 INFO - 0 ids processed
+2016-05-03 06:17:52,302 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:20:02,348 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:20:34,825 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:21:09,418 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:21:31,025 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:22:10,806 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:24:13,865 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:24:29,653 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:24:35,707 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 06:24:41,676 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:24:41,676 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 06:24:41,707 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:24:41,818 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:24:41,818 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 06:24:41,854 INFO - 0 ids processed
+2016-05-03 06:24:41,860 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:24:41,897 INFO - 0 ids processed
+2016-05-03 06:25:00,271 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:25:06,314 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 06:25:12,299 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:25:12,299 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 06:25:12,335 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:25:12,452 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:25:12,452 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 06:25:12,490 INFO - 0 ids processed
+2016-05-03 06:25:12,498 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:25:12,537 INFO - 0 ids processed
+2016-05-03 06:32:12,026 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:32:18,196 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 06:32:24,202 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:32:24,202 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 06:32:24,236 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:32:24,351 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:32:24,351 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 06:32:24,387 INFO - 0 ids processed
+2016-05-03 06:32:24,395 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:32:24,433 INFO - 0 ids processed
+2016-05-03 06:33:06,688 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 06:33:12,898 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 06:33:18,855 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:33:18,855 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 06:33:18,888 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 06:33:19,002 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:33:19,002 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 06:33:19,039 INFO - 0 ids processed
+2016-05-03 06:33:19,047 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 06:33:19,084 INFO - 0 ids processed
+2016-05-03 10:05:06,888 INFO - Start combining,  the file names is 
+ 
+2016-05-03 10:07:03,959 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-03 10:07:10,214 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-03 10:07:16,073 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 10:07:16,073 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-03 10:07:16,107 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-03 10:07:16,221 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 10:07:16,221 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-03 10:07:16,257 INFO - 0 ids processed
+2016-05-03 10:07:16,264 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-03 10:07:16,300 INFO - 0 ids processed
+2016-05-04 01:51:21,052 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 01:51:28,222 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 01:51:34,370 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-04 01:51:34,370 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-04 01:51:34,404 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-04 01:51:34,525 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-04 01:51:34,539 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-04 01:51:34,576 INFO - 0 ids processed
+2016-05-04 01:51:34,585 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-04 01:51:34,621 INFO - 0 ids processed
+2016-05-04 01:52:04,760 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 01:53:03,530 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 01:53:09,766 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 01:53:15,781 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-04 01:53:15,781 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.pkl
+2016-05-04 01:53:15,813 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.pkl
+2016-05-04 01:53:15,927 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-04 01:53:15,927 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-04 01:53:15,963 INFO - 0 ids processed
+2016-05-04 01:53:15,970 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-04 01:53:16,008 INFO - 0 ids processed
+2016-05-04 03:22:57,945 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:23:33,756 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:23:46,615 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:23:47,658 INFO - 100 lines processed
+2016-05-04 03:23:48,276 INFO - 200 lines processed
+2016-05-04 03:23:48,993 INFO - 300 lines processed
+2016-05-04 03:23:49,943 INFO - 400 lines processed
+2016-05-04 03:23:50,516 INFO - 500 lines processed
+2016-05-04 03:23:51,152 INFO - 600 lines processed
+2016-05-04 03:23:51,613 INFO - 700 lines processed
+2016-05-04 03:23:52,176 INFO - 800 lines processed
+2016-05-04 03:23:52,591 INFO - 900 lines processed
+2016-05-04 03:23:52,858 INFO - 1000 lines processed
+2016-05-04 03:24:47,976 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:24:49,011 INFO - 100 lines processed
+2016-05-04 03:24:49,630 INFO - 200 lines processed
+2016-05-04 03:24:50,350 INFO - 300 lines processed
+2016-05-04 03:24:51,295 INFO - 400 lines processed
+2016-05-04 03:24:51,874 INFO - 500 lines processed
+2016-05-04 03:24:52,532 INFO - 600 lines processed
+2016-05-04 03:24:52,989 INFO - 700 lines processed
+2016-05-04 03:24:53,558 INFO - 800 lines processed
+2016-05-04 03:24:53,974 INFO - 900 lines processed
+2016-05-04 03:24:54,242 INFO - 1000 lines processed
+2016-05-04 03:26:16,761 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:26:17,781 INFO - 100 lines processed
+2016-05-04 03:26:18,398 INFO - 200 lines processed
+2016-05-04 03:26:19,123 INFO - 300 lines processed
+2016-05-04 03:26:20,081 INFO - 400 lines processed
+2016-05-04 03:26:20,631 INFO - 500 lines processed
+2016-05-04 03:26:21,268 INFO - 600 lines processed
+2016-05-04 03:26:21,719 INFO - 700 lines processed
+2016-05-04 03:26:22,283 INFO - 800 lines processed
+2016-05-04 03:26:22,702 INFO - 900 lines processed
+2016-05-04 03:26:22,968 INFO - 1000 lines processed
+2016-05-04 03:27:29,565 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:27:30,588 INFO - 100 lines processed
+2016-05-04 03:27:31,201 INFO - 200 lines processed
+2016-05-04 03:27:31,911 INFO - 300 lines processed
+2016-05-04 03:27:32,843 INFO - 400 lines processed
+2016-05-04 03:27:33,395 INFO - 500 lines processed
+2016-05-04 03:27:34,031 INFO - 600 lines processed
+2016-05-04 03:27:34,481 INFO - 700 lines processed
+2016-05-04 03:27:35,042 INFO - 800 lines processed
+2016-05-04 03:27:35,457 INFO - 900 lines processed
+2016-05-04 03:27:35,725 INFO - 1000 lines processed
+2016-05-04 03:28:09,335 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:28:10,339 INFO - 100 lines processed
+2016-05-04 03:28:10,951 INFO - 200 lines processed
+2016-05-04 03:28:11,664 INFO - 300 lines processed
+2016-05-04 03:28:12,616 INFO - 400 lines processed
+2016-05-04 03:28:13,163 INFO - 500 lines processed
+2016-05-04 03:28:13,805 INFO - 600 lines processed
+2016-05-04 03:28:14,258 INFO - 700 lines processed
+2016-05-04 03:28:14,823 INFO - 800 lines processed
+2016-05-04 03:28:15,242 INFO - 900 lines processed
+2016-05-04 03:28:15,512 INFO - 1000 lines processed
+2016-05-04 03:28:21,998 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:28:23,048 INFO - 100 lines processed
+2016-05-04 03:28:23,678 INFO - 200 lines processed
+2016-05-04 03:28:24,409 INFO - 300 lines processed
+2016-05-04 03:28:25,364 INFO - 400 lines processed
+2016-05-04 03:28:25,927 INFO - 500 lines processed
+2016-05-04 03:28:26,573 INFO - 600 lines processed
+2016-05-04 03:28:27,035 INFO - 700 lines processed
+2016-05-04 03:28:27,603 INFO - 800 lines processed
+2016-05-04 03:28:28,025 INFO - 900 lines processed
+2016-05-04 03:28:28,295 INFO - 1000 lines processed
+2016-05-04 03:29:20,483 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:29:21,518 INFO - 100 lines processed
+2016-05-04 03:29:22,138 INFO - 200 lines processed
+2016-05-04 03:29:22,872 INFO - 300 lines processed
+2016-05-04 03:29:23,814 INFO - 400 lines processed
+2016-05-04 03:29:24,374 INFO - 500 lines processed
+2016-05-04 03:29:25,014 INFO - 600 lines processed
+2016-05-04 03:29:25,467 INFO - 700 lines processed
+2016-05-04 03:29:26,034 INFO - 800 lines processed
+2016-05-04 03:29:26,451 INFO - 900 lines processed
+2016-05-04 03:29:26,718 INFO - 1000 lines processed
+2016-05-04 03:30:45,855 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:30:46,888 INFO - 100 lines processed
+2016-05-04 03:30:47,504 INFO - 200 lines processed
+2016-05-04 03:30:48,291 INFO - 300 lines processed
+2016-05-04 03:30:49,270 INFO - 400 lines processed
+2016-05-04 03:30:49,830 INFO - 500 lines processed
+2016-05-04 03:30:50,479 INFO - 600 lines processed
+2016-05-04 03:30:50,958 INFO - 700 lines processed
+2016-05-04 03:30:51,524 INFO - 800 lines processed
+2016-05-04 03:30:51,940 INFO - 900 lines processed
+2016-05-04 03:30:52,207 INFO - 1000 lines processed
+2016-05-04 03:31:14,654 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:31:15,631 INFO - 100 lines processed
+2016-05-04 03:31:16,213 INFO - 200 lines processed
+2016-05-04 03:31:16,880 INFO - 300 lines processed
+2016-05-04 03:31:17,752 INFO - 400 lines processed
+2016-05-04 03:31:18,271 INFO - 500 lines processed
+2016-05-04 03:31:18,877 INFO - 600 lines processed
+2016-05-04 03:31:19,330 INFO - 700 lines processed
+2016-05-04 03:31:19,863 INFO - 800 lines processed
+2016-05-04 03:31:20,262 INFO - 900 lines processed
+2016-05-04 03:31:20,517 INFO - 1000 lines processed
+2016-05-04 03:32:12,596 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:32:13,593 INFO - 100 lines processed
+2016-05-04 03:32:14,199 INFO - 200 lines processed
+2016-05-04 03:32:15,199 INFO - 300 lines processed
+2016-05-04 03:32:16,115 INFO - 400 lines processed
+2016-05-04 03:32:16,649 INFO - 500 lines processed
+2016-05-04 03:32:17,266 INFO - 600 lines processed
+2016-05-04 03:32:17,703 INFO - 700 lines processed
+2016-05-04 03:32:18,246 INFO - 800 lines processed
+2016-05-04 03:32:18,650 INFO - 900 lines processed
+2016-05-04 03:32:18,909 INFO - 1000 lines processed
+2016-05-04 03:32:42,002 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:32:43,032 INFO - 100 lines processed
+2016-05-04 03:32:43,639 INFO - 200 lines processed
+2016-05-04 03:32:44,341 INFO - 300 lines processed
+2016-05-04 03:32:45,255 INFO - 400 lines processed
+2016-05-04 03:32:45,791 INFO - 500 lines processed
+2016-05-04 03:32:46,419 INFO - 600 lines processed
+2016-05-04 03:32:46,862 INFO - 700 lines processed
+2016-05-04 03:32:47,409 INFO - 800 lines processed
+2016-05-04 03:32:47,837 INFO - 900 lines processed
+2016-05-04 03:32:48,099 INFO - 1000 lines processed
+2016-05-04 03:32:48,257 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:32:49,077 INFO - 100 lines processed
+2016-05-04 03:32:49,693 INFO - 200 lines processed
+2016-05-04 03:32:50,453 INFO - 300 lines processed
+2016-05-04 03:32:51,386 INFO - 400 lines processed
+2016-05-04 03:32:51,931 INFO - 500 lines processed
+2016-05-04 03:32:52,545 INFO - 600 lines processed
+2016-05-04 03:32:52,981 INFO - 700 lines processed
+2016-05-04 03:32:53,531 INFO - 800 lines processed
+2016-05-04 03:32:53,935 INFO - 900 lines processed
+2016-05-04 03:32:54,196 INFO - 1000 lines processed
+2016-05-04 03:32:54,427 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:32:54,428 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:34:52,835 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:34:53,823 INFO - 100 lines processed
+2016-05-04 03:34:54,413 INFO - 200 lines processed
+2016-05-04 03:34:55,106 INFO - 300 lines processed
+2016-05-04 03:34:56,016 INFO - 400 lines processed
+2016-05-04 03:34:56,552 INFO - 500 lines processed
+2016-05-04 03:34:57,171 INFO - 600 lines processed
+2016-05-04 03:34:57,611 INFO - 700 lines processed
+2016-05-04 03:34:58,160 INFO - 800 lines processed
+2016-05-04 03:34:58,566 INFO - 900 lines processed
+2016-05-04 03:34:58,825 INFO - 1000 lines processed
+2016-05-04 03:34:58,979 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:34:59,790 INFO - 100 lines processed
+2016-05-04 03:35:00,406 INFO - 200 lines processed
+2016-05-04 03:35:01,106 INFO - 300 lines processed
+2016-05-04 03:35:02,020 INFO - 400 lines processed
+2016-05-04 03:35:02,562 INFO - 500 lines processed
+2016-05-04 03:35:03,179 INFO - 600 lines processed
+2016-05-04 03:35:03,612 INFO - 700 lines processed
+2016-05-04 03:35:04,159 INFO - 800 lines processed
+2016-05-04 03:35:04,563 INFO - 900 lines processed
+2016-05-04 03:35:04,823 INFO - 1000 lines processed
+2016-05-04 03:35:04,981 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:35:04,981 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:35:04,994 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:35:05,013 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:35:05,013 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 03:35:24,547 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:35:25,524 INFO - 100 lines processed
+2016-05-04 03:35:26,093 INFO - 200 lines processed
+2016-05-04 03:35:26,778 INFO - 300 lines processed
+2016-05-04 03:35:27,657 INFO - 400 lines processed
+2016-05-04 03:35:28,189 INFO - 500 lines processed
+2016-05-04 03:35:28,797 INFO - 600 lines processed
+2016-05-04 03:35:29,249 INFO - 700 lines processed
+2016-05-04 03:35:29,789 INFO - 800 lines processed
+2016-05-04 03:35:30,189 INFO - 900 lines processed
+2016-05-04 03:35:30,452 INFO - 1000 lines processed
+2016-05-04 03:35:30,609 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:35:31,419 INFO - 100 lines processed
+2016-05-04 03:35:32,035 INFO - 200 lines processed
+2016-05-04 03:35:32,729 INFO - 300 lines processed
+2016-05-04 03:35:33,642 INFO - 400 lines processed
+2016-05-04 03:35:34,185 INFO - 500 lines processed
+2016-05-04 03:35:34,805 INFO - 600 lines processed
+2016-05-04 03:35:35,243 INFO - 700 lines processed
+2016-05-04 03:35:35,787 INFO - 800 lines processed
+2016-05-04 03:35:36,192 INFO - 900 lines processed
+2016-05-04 03:35:36,450 INFO - 1000 lines processed
+2016-05-04 03:35:36,606 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:35:36,606 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:35:36,619 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:35:36,638 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:35:36,638 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 03:35:57,520 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:35:58,510 INFO - 100 lines processed
+2016-05-04 03:35:59,080 INFO - 200 lines processed
+2016-05-04 03:35:59,758 INFO - 300 lines processed
+2016-05-04 03:36:00,654 INFO - 400 lines processed
+2016-05-04 03:36:01,179 INFO - 500 lines processed
+2016-05-04 03:36:01,789 INFO - 600 lines processed
+2016-05-04 03:36:02,224 INFO - 700 lines processed
+2016-05-04 03:36:02,768 INFO - 800 lines processed
+2016-05-04 03:36:03,172 INFO - 900 lines processed
+2016-05-04 03:36:03,429 INFO - 1000 lines processed
+2016-05-04 03:36:03,581 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:36:04,395 INFO - 100 lines processed
+2016-05-04 03:36:05,004 INFO - 200 lines processed
+2016-05-04 03:36:05,697 INFO - 300 lines processed
+2016-05-04 03:36:06,622 INFO - 400 lines processed
+2016-05-04 03:36:07,165 INFO - 500 lines processed
+2016-05-04 03:36:07,780 INFO - 600 lines processed
+2016-05-04 03:36:08,213 INFO - 700 lines processed
+2016-05-04 03:36:08,757 INFO - 800 lines processed
+2016-05-04 03:36:09,160 INFO - 900 lines processed
+2016-05-04 03:36:09,418 INFO - 1000 lines processed
+2016-05-04 03:36:09,570 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:36:09,570 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:36:09,583 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:36:09,601 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:36:09,601 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 03:36:55,396 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:36:56,367 INFO - 100 lines processed
+2016-05-04 03:36:56,936 INFO - 200 lines processed
+2016-05-04 03:36:57,593 INFO - 300 lines processed
+2016-05-04 03:36:58,463 INFO - 400 lines processed
+2016-05-04 03:36:58,970 INFO - 500 lines processed
+2016-05-04 03:36:59,559 INFO - 600 lines processed
+2016-05-04 03:36:59,969 INFO - 700 lines processed
+2016-05-04 03:37:00,484 INFO - 800 lines processed
+2016-05-04 03:37:00,858 INFO - 900 lines processed
+2016-05-04 03:37:01,100 INFO - 1000 lines processed
+2016-05-04 03:37:01,246 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:37:02,004 INFO - 100 lines processed
+2016-05-04 03:37:02,577 INFO - 200 lines processed
+2016-05-04 03:37:03,229 INFO - 300 lines processed
+2016-05-04 03:37:04,101 INFO - 400 lines processed
+2016-05-04 03:37:04,608 INFO - 500 lines processed
+2016-05-04 03:37:05,188 INFO - 600 lines processed
+2016-05-04 03:37:05,595 INFO - 700 lines processed
+2016-05-04 03:37:06,103 INFO - 800 lines processed
+2016-05-04 03:37:06,480 INFO - 900 lines processed
+2016-05-04 03:37:06,721 INFO - 1000 lines processed
+2016-05-04 03:37:06,868 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:37:06,868 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:37:06,880 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:37:06,897 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:37:06,898 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 03:38:11,282 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:38:12,279 INFO - 100 lines processed
+2016-05-04 03:38:12,910 INFO - 200 lines processed
+2016-05-04 03:38:13,602 INFO - 300 lines processed
+2016-05-04 03:38:14,507 INFO - 400 lines processed
+2016-05-04 03:38:15,055 INFO - 500 lines processed
+2016-05-04 03:38:15,672 INFO - 600 lines processed
+2016-05-04 03:38:16,110 INFO - 700 lines processed
+2016-05-04 03:38:16,656 INFO - 800 lines processed
+2016-05-04 03:38:17,062 INFO - 900 lines processed
+2016-05-04 03:38:17,322 INFO - 1000 lines processed
+2016-05-04 03:38:17,479 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:38:18,289 INFO - 100 lines processed
+2016-05-04 03:38:18,900 INFO - 200 lines processed
+2016-05-04 03:38:19,616 INFO - 300 lines processed
+2016-05-04 03:38:20,531 INFO - 400 lines processed
+2016-05-04 03:38:21,072 INFO - 500 lines processed
+2016-05-04 03:38:21,686 INFO - 600 lines processed
+2016-05-04 03:38:22,116 INFO - 700 lines processed
+2016-05-04 03:38:22,660 INFO - 800 lines processed
+2016-05-04 03:38:23,064 INFO - 900 lines processed
+2016-05-04 03:38:23,323 INFO - 1000 lines processed
+2016-05-04 03:38:23,480 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:38:23,480 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:38:23,493 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:38:23,511 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:38:23,511 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 03:38:50,260 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 03:38:51,423 INFO - 100 lines processed
+2016-05-04 03:38:51,996 INFO - 200 lines processed
+2016-05-04 03:38:52,668 INFO - 300 lines processed
+2016-05-04 03:38:53,565 INFO - 400 lines processed
+2016-05-04 03:38:54,089 INFO - 500 lines processed
+2016-05-04 03:38:54,741 INFO - 600 lines processed
+2016-05-04 03:38:55,198 INFO - 700 lines processed
+2016-05-04 03:38:55,740 INFO - 800 lines processed
+2016-05-04 03:38:56,140 INFO - 900 lines processed
+2016-05-04 03:38:56,397 INFO - 1000 lines processed
+2016-05-04 03:38:56,555 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 03:38:57,362 INFO - 100 lines processed
+2016-05-04 03:38:57,972 INFO - 200 lines processed
+2016-05-04 03:38:58,665 INFO - 300 lines processed
+2016-05-04 03:38:59,589 INFO - 400 lines processed
+2016-05-04 03:39:00,137 INFO - 500 lines processed
+2016-05-04 03:39:00,750 INFO - 600 lines processed
+2016-05-04 03:39:01,187 INFO - 700 lines processed
+2016-05-04 03:39:01,732 INFO - 800 lines processed
+2016-05-04 03:39:02,134 INFO - 900 lines processed
+2016-05-04 03:39:02,395 INFO - 1000 lines processed
+2016-05-04 03:39:02,554 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:39:02,554 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 03:39:02,567 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 03:39:02,585 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 03:39:02,586 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:27:15,631 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:27:16,639 INFO - 100 lines processed
+2016-05-04 04:27:17,213 INFO - 200 lines processed
+2016-05-04 04:27:17,892 INFO - 300 lines processed
+2016-05-04 04:27:18,785 INFO - 400 lines processed
+2016-05-04 04:27:19,308 INFO - 500 lines processed
+2016-05-04 04:27:19,918 INFO - 600 lines processed
+2016-05-04 04:27:20,360 INFO - 700 lines processed
+2016-05-04 04:27:20,901 INFO - 800 lines processed
+2016-05-04 04:27:21,303 INFO - 900 lines processed
+2016-05-04 04:27:21,560 INFO - 1000 lines processed
+2016-05-04 04:27:21,737 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:27:22,549 INFO - 100 lines processed
+2016-05-04 04:27:23,162 INFO - 200 lines processed
+2016-05-04 04:27:23,854 INFO - 300 lines processed
+2016-05-04 04:27:24,768 INFO - 400 lines processed
+2016-05-04 04:27:25,312 INFO - 500 lines processed
+2016-05-04 04:27:25,925 INFO - 600 lines processed
+2016-05-04 04:27:26,360 INFO - 700 lines processed
+2016-05-04 04:27:26,904 INFO - 800 lines processed
+2016-05-04 04:27:27,305 INFO - 900 lines processed
+2016-05-04 04:27:27,565 INFO - 1000 lines processed
+2016-05-04 04:27:27,741 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:27:27,741 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:27:27,755 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:27:27,773 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:27:27,773 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:27:59,486 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:28:00,485 INFO - 100 lines processed
+2016-05-04 04:28:01,085 INFO - 200 lines processed
+2016-05-04 04:28:01,804 INFO - 300 lines processed
+2016-05-04 04:28:02,717 INFO - 400 lines processed
+2016-05-04 04:28:03,251 INFO - 500 lines processed
+2016-05-04 04:28:03,872 INFO - 600 lines processed
+2016-05-04 04:28:04,314 INFO - 700 lines processed
+2016-05-04 04:28:04,868 INFO - 800 lines processed
+2016-05-04 04:28:05,274 INFO - 900 lines processed
+2016-05-04 04:28:05,534 INFO - 1000 lines processed
+2016-05-04 04:28:05,687 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:28:06,526 INFO - 100 lines processed
+2016-05-04 04:28:07,151 INFO - 200 lines processed
+2016-05-04 04:28:07,875 INFO - 300 lines processed
+2016-05-04 04:28:08,798 INFO - 400 lines processed
+2016-05-04 04:28:09,374 INFO - 500 lines processed
+2016-05-04 04:28:09,996 INFO - 600 lines processed
+2016-05-04 04:28:10,434 INFO - 700 lines processed
+2016-05-04 04:28:10,984 INFO - 800 lines processed
+2016-05-04 04:28:11,389 INFO - 900 lines processed
+2016-05-04 04:28:11,648 INFO - 1000 lines processed
+2016-05-04 04:28:11,805 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:28:11,805 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:28:11,818 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:28:11,836 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:28:11,836 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:31:43,679 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:31:44,674 INFO - 100 lines processed
+2016-05-04 04:31:45,252 INFO - 200 lines processed
+2016-05-04 04:31:45,961 INFO - 300 lines processed
+2016-05-04 04:31:46,860 INFO - 400 lines processed
+2016-05-04 04:31:47,391 INFO - 500 lines processed
+2016-05-04 04:31:48,008 INFO - 600 lines processed
+2016-05-04 04:31:48,448 INFO - 700 lines processed
+2016-05-04 04:31:48,993 INFO - 800 lines processed
+2016-05-04 04:31:49,396 INFO - 900 lines processed
+2016-05-04 04:31:49,653 INFO - 1000 lines processed
+2016-05-04 04:31:49,810 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:31:50,621 INFO - 100 lines processed
+2016-05-04 04:31:51,235 INFO - 200 lines processed
+2016-05-04 04:31:51,926 INFO - 300 lines processed
+2016-05-04 04:31:52,847 INFO - 400 lines processed
+2016-05-04 04:31:53,387 INFO - 500 lines processed
+2016-05-04 04:31:54,001 INFO - 600 lines processed
+2016-05-04 04:31:54,436 INFO - 700 lines processed
+2016-05-04 04:31:54,984 INFO - 800 lines processed
+2016-05-04 04:31:55,387 INFO - 900 lines processed
+2016-05-04 04:31:55,644 INFO - 1000 lines processed
+2016-05-04 04:31:55,798 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:31:55,798 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:31:55,811 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:31:55,830 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:31:55,831 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:32:17,643 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:32:18,652 INFO - 100 lines processed
+2016-05-04 04:32:19,257 INFO - 200 lines processed
+2016-05-04 04:32:19,959 INFO - 300 lines processed
+2016-05-04 04:32:20,876 INFO - 400 lines processed
+2016-05-04 04:32:21,427 INFO - 500 lines processed
+2016-05-04 04:32:22,046 INFO - 600 lines processed
+2016-05-04 04:32:22,493 INFO - 700 lines processed
+2016-05-04 04:32:23,039 INFO - 800 lines processed
+2016-05-04 04:32:23,442 INFO - 900 lines processed
+2016-05-04 04:32:23,700 INFO - 1000 lines processed
+2016-05-04 04:32:23,852 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:32:24,662 INFO - 100 lines processed
+2016-05-04 04:32:25,278 INFO - 200 lines processed
+2016-05-04 04:32:25,996 INFO - 300 lines processed
+2016-05-04 04:32:26,915 INFO - 400 lines processed
+2016-05-04 04:32:27,461 INFO - 500 lines processed
+2016-05-04 04:32:28,078 INFO - 600 lines processed
+2016-05-04 04:32:28,513 INFO - 700 lines processed
+2016-05-04 04:32:29,062 INFO - 800 lines processed
+2016-05-04 04:32:29,466 INFO - 900 lines processed
+2016-05-04 04:32:29,726 INFO - 1000 lines processed
+2016-05-04 04:32:29,881 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:32:29,881 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:32:29,894 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:32:29,912 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:32:29,912 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:36:39,373 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:36:40,392 INFO - 100 lines processed
+2016-05-04 04:36:41,000 INFO - 200 lines processed
+2016-05-04 04:36:41,701 INFO - 300 lines processed
+2016-05-04 04:36:42,634 INFO - 400 lines processed
+2016-05-04 04:36:43,175 INFO - 500 lines processed
+2016-05-04 04:36:43,796 INFO - 600 lines processed
+2016-05-04 04:36:44,275 INFO - 700 lines processed
+2016-05-04 04:36:44,821 INFO - 800 lines processed
+2016-05-04 04:36:45,226 INFO - 900 lines processed
+2016-05-04 04:36:45,487 INFO - 1000 lines processed
+2016-05-04 04:36:45,642 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:36:46,472 INFO - 100 lines processed
+2016-05-04 04:36:47,092 INFO - 200 lines processed
+2016-05-04 04:36:47,788 INFO - 300 lines processed
+2016-05-04 04:36:48,704 INFO - 400 lines processed
+2016-05-04 04:36:49,246 INFO - 500 lines processed
+2016-05-04 04:36:49,859 INFO - 600 lines processed
+2016-05-04 04:36:50,294 INFO - 700 lines processed
+2016-05-04 04:36:50,841 INFO - 800 lines processed
+2016-05-04 04:36:51,244 INFO - 900 lines processed
+2016-05-04 04:36:51,501 INFO - 1000 lines processed
+2016-05-04 04:36:51,654 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:36:51,654 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:36:51,667 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:36:51,685 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:36:51,685 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:40:06,455 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:40:07,463 INFO - 100 lines processed
+2016-05-04 04:40:08,073 INFO - 200 lines processed
+2016-05-04 04:40:08,784 INFO - 300 lines processed
+2016-05-04 04:40:09,696 INFO - 400 lines processed
+2016-05-04 04:40:10,242 INFO - 500 lines processed
+2016-05-04 04:40:10,864 INFO - 600 lines processed
+2016-05-04 04:40:11,306 INFO - 700 lines processed
+2016-05-04 04:40:11,856 INFO - 800 lines processed
+2016-05-04 04:40:12,263 INFO - 900 lines processed
+2016-05-04 04:40:12,550 INFO - 1000 lines processed
+2016-05-04 04:40:12,707 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:40:13,544 INFO - 100 lines processed
+2016-05-04 04:40:14,159 INFO - 200 lines processed
+2016-05-04 04:40:14,863 INFO - 300 lines processed
+2016-05-04 04:40:15,779 INFO - 400 lines processed
+2016-05-04 04:40:16,325 INFO - 500 lines processed
+2016-05-04 04:40:16,950 INFO - 600 lines processed
+2016-05-04 04:40:17,385 INFO - 700 lines processed
+2016-05-04 04:40:17,936 INFO - 800 lines processed
+2016-05-04 04:40:18,339 INFO - 900 lines processed
+2016-05-04 04:40:18,597 INFO - 1000 lines processed
+2016-05-04 04:40:18,752 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:40:18,752 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:40:18,765 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:40:18,783 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:40:18,783 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:40:54,003 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:40:54,996 INFO - 100 lines processed
+2016-05-04 04:40:55,606 INFO - 200 lines processed
+2016-05-04 04:40:56,308 INFO - 300 lines processed
+2016-05-04 04:40:57,209 INFO - 400 lines processed
+2016-05-04 04:40:57,743 INFO - 500 lines processed
+2016-05-04 04:40:58,402 INFO - 600 lines processed
+2016-05-04 04:40:58,839 INFO - 700 lines processed
+2016-05-04 04:40:59,388 INFO - 800 lines processed
+2016-05-04 04:40:59,793 INFO - 900 lines processed
+2016-05-04 04:41:00,055 INFO - 1000 lines processed
+2016-05-04 04:41:00,254 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:41:01,080 INFO - 100 lines processed
+2016-05-04 04:41:01,695 INFO - 200 lines processed
+2016-05-04 04:41:02,396 INFO - 300 lines processed
+2016-05-04 04:41:03,328 INFO - 400 lines processed
+2016-05-04 04:41:03,877 INFO - 500 lines processed
+2016-05-04 04:41:04,493 INFO - 600 lines processed
+2016-05-04 04:41:04,925 INFO - 700 lines processed
+2016-05-04 04:41:05,474 INFO - 800 lines processed
+2016-05-04 04:41:05,877 INFO - 900 lines processed
+2016-05-04 04:41:06,135 INFO - 1000 lines processed
+2016-05-04 04:41:06,340 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:41:06,340 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:41:06,353 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:41:06,372 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 04:41:06,372 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 04:42:47,365 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 04:42:48,379 INFO - 100 lines processed
+2016-05-04 04:42:48,968 INFO - 200 lines processed
+2016-05-04 04:42:49,683 INFO - 300 lines processed
+2016-05-04 04:42:50,603 INFO - 400 lines processed
+2016-05-04 04:42:51,140 INFO - 500 lines processed
+2016-05-04 04:42:51,762 INFO - 600 lines processed
+2016-05-04 04:42:52,207 INFO - 700 lines processed
+2016-05-04 04:42:52,768 INFO - 800 lines processed
+2016-05-04 04:42:53,181 INFO - 900 lines processed
+2016-05-04 04:42:53,441 INFO - 1000 lines processed
+2016-05-04 04:42:53,595 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 04:42:54,419 INFO - 100 lines processed
+2016-05-04 04:42:55,044 INFO - 200 lines processed
+2016-05-04 04:42:55,749 INFO - 300 lines processed
+2016-05-04 04:42:56,684 INFO - 400 lines processed
+2016-05-04 04:42:57,240 INFO - 500 lines processed
+2016-05-04 04:42:57,863 INFO - 600 lines processed
+2016-05-04 04:42:58,303 INFO - 700 lines processed
+2016-05-04 04:42:58,862 INFO - 800 lines processed
+2016-05-04 04:42:59,271 INFO - 900 lines processed
+2016-05-04 04:42:59,532 INFO - 1000 lines processed
+2016-05-04 04:42:59,688 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 04:42:59,689 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 04:42:59,702 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:16:49,426 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:16:50,445 INFO - 100 lines processed
+2016-05-04 05:16:51,052 INFO - 200 lines processed
+2016-05-04 05:16:51,760 INFO - 300 lines processed
+2016-05-04 05:16:52,699 INFO - 400 lines processed
+2016-05-04 05:16:53,239 INFO - 500 lines processed
+2016-05-04 05:16:53,862 INFO - 600 lines processed
+2016-05-04 05:16:54,303 INFO - 700 lines processed
+2016-05-04 05:16:54,847 INFO - 800 lines processed
+2016-05-04 05:16:55,248 INFO - 900 lines processed
+2016-05-04 05:16:55,508 INFO - 1000 lines processed
+2016-05-04 05:16:55,660 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:16:56,467 INFO - 100 lines processed
+2016-05-04 05:16:57,083 INFO - 200 lines processed
+2016-05-04 05:16:57,785 INFO - 300 lines processed
+2016-05-04 05:16:58,701 INFO - 400 lines processed
+2016-05-04 05:16:59,248 INFO - 500 lines processed
+2016-05-04 05:16:59,864 INFO - 600 lines processed
+2016-05-04 05:17:00,300 INFO - 700 lines processed
+2016-05-04 05:17:00,845 INFO - 800 lines processed
+2016-05-04 05:17:01,252 INFO - 900 lines processed
+2016-05-04 05:17:01,511 INFO - 1000 lines processed
+2016-05-04 05:17:01,667 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:17:01,667 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:17:24,621 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:17:25,641 INFO - 100 lines processed
+2016-05-04 05:17:26,272 INFO - 200 lines processed
+2016-05-04 05:17:26,989 INFO - 300 lines processed
+2016-05-04 05:17:27,922 INFO - 400 lines processed
+2016-05-04 05:17:28,468 INFO - 500 lines processed
+2016-05-04 05:17:29,098 INFO - 600 lines processed
+2016-05-04 05:17:29,545 INFO - 700 lines processed
+2016-05-04 05:17:30,102 INFO - 800 lines processed
+2016-05-04 05:17:30,513 INFO - 900 lines processed
+2016-05-04 05:17:30,773 INFO - 1000 lines processed
+2016-05-04 05:17:30,927 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:17:31,747 INFO - 100 lines processed
+2016-05-04 05:17:32,367 INFO - 200 lines processed
+2016-05-04 05:17:33,073 INFO - 300 lines processed
+2016-05-04 05:17:34,036 INFO - 400 lines processed
+2016-05-04 05:17:34,589 INFO - 500 lines processed
+2016-05-04 05:17:35,211 INFO - 600 lines processed
+2016-05-04 05:17:35,651 INFO - 700 lines processed
+2016-05-04 05:17:36,202 INFO - 800 lines processed
+2016-05-04 05:17:36,614 INFO - 900 lines processed
+2016-05-04 05:17:36,876 INFO - 1000 lines processed
+2016-05-04 05:17:37,031 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:17:37,031 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:17:37,048 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:17:37,069 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:17:37,069 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:19:44,533 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:19:45,543 INFO - 100 lines processed
+2016-05-04 05:19:46,130 INFO - 200 lines processed
+2016-05-04 05:19:46,822 INFO - 300 lines processed
+2016-05-04 05:19:47,746 INFO - 400 lines processed
+2016-05-04 05:19:48,280 INFO - 500 lines processed
+2016-05-04 05:19:48,901 INFO - 600 lines processed
+2016-05-04 05:19:49,344 INFO - 700 lines processed
+2016-05-04 05:19:49,893 INFO - 800 lines processed
+2016-05-04 05:19:50,299 INFO - 900 lines processed
+2016-05-04 05:19:50,563 INFO - 1000 lines processed
+2016-05-04 05:19:50,719 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:19:51,541 INFO - 100 lines processed
+2016-05-04 05:19:52,161 INFO - 200 lines processed
+2016-05-04 05:19:52,865 INFO - 300 lines processed
+2016-05-04 05:19:53,793 INFO - 400 lines processed
+2016-05-04 05:19:54,344 INFO - 500 lines processed
+2016-05-04 05:19:54,968 INFO - 600 lines processed
+2016-05-04 05:19:55,406 INFO - 700 lines processed
+2016-05-04 05:19:55,955 INFO - 800 lines processed
+2016-05-04 05:19:56,362 INFO - 900 lines processed
+2016-05-04 05:19:56,621 INFO - 1000 lines processed
+2016-05-04 05:19:56,777 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:19:56,777 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:19:56,794 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:19:56,815 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:19:56,815 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:22:15,724 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:22:16,725 INFO - 100 lines processed
+2016-05-04 05:22:17,308 INFO - 200 lines processed
+2016-05-04 05:22:17,960 INFO - 300 lines processed
+2016-05-04 05:22:18,854 INFO - 400 lines processed
+2016-05-04 05:22:19,424 INFO - 500 lines processed
+2016-05-04 05:22:20,036 INFO - 600 lines processed
+2016-05-04 05:22:20,451 INFO - 700 lines processed
+2016-05-04 05:22:21,004 INFO - 800 lines processed
+2016-05-04 05:22:21,387 INFO - 900 lines processed
+2016-05-04 05:22:21,630 INFO - 1000 lines processed
+2016-05-04 05:22:21,776 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:22:22,540 INFO - 100 lines processed
+2016-05-04 05:22:23,121 INFO - 200 lines processed
+2016-05-04 05:22:23,790 INFO - 300 lines processed
+2016-05-04 05:22:24,810 INFO - 400 lines processed
+2016-05-04 05:22:25,332 INFO - 500 lines processed
+2016-05-04 05:22:25,929 INFO - 600 lines processed
+2016-05-04 05:22:26,357 INFO - 700 lines processed
+2016-05-04 05:22:26,898 INFO - 800 lines processed
+2016-05-04 05:22:27,296 INFO - 900 lines processed
+2016-05-04 05:22:27,551 INFO - 1000 lines processed
+2016-05-04 05:22:27,703 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:22:27,703 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:22:27,720 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:22:27,741 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:22:27,741 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:22:27,814 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-04 05:23:29,625 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:23:30,716 INFO - 100 lines processed
+2016-05-04 05:23:31,303 INFO - 200 lines processed
+2016-05-04 05:23:31,984 INFO - 300 lines processed
+2016-05-04 05:23:32,880 INFO - 400 lines processed
+2016-05-04 05:23:33,424 INFO - 500 lines processed
+2016-05-04 05:23:34,039 INFO - 600 lines processed
+2016-05-04 05:23:34,472 INFO - 700 lines processed
+2016-05-04 05:23:35,043 INFO - 800 lines processed
+2016-05-04 05:23:35,444 INFO - 900 lines processed
+2016-05-04 05:23:35,703 INFO - 1000 lines processed
+2016-05-04 05:23:35,859 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:23:36,671 INFO - 100 lines processed
+2016-05-04 05:23:37,285 INFO - 200 lines processed
+2016-05-04 05:23:37,983 INFO - 300 lines processed
+2016-05-04 05:23:38,892 INFO - 400 lines processed
+2016-05-04 05:23:39,435 INFO - 500 lines processed
+2016-05-04 05:23:40,051 INFO - 600 lines processed
+2016-05-04 05:23:40,497 INFO - 700 lines processed
+2016-05-04 05:23:41,044 INFO - 800 lines processed
+2016-05-04 05:23:41,458 INFO - 900 lines processed
+2016-05-04 05:23:41,721 INFO - 1000 lines processed
+2016-05-04 05:23:41,877 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:23:41,878 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:23:41,894 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:23:41,915 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:23:41,915 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:24:11,685 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:24:12,689 INFO - 100 lines processed
+2016-05-04 05:24:13,295 INFO - 200 lines processed
+2016-05-04 05:24:14,010 INFO - 300 lines processed
+2016-05-04 05:24:14,920 INFO - 400 lines processed
+2016-05-04 05:24:15,454 INFO - 500 lines processed
+2016-05-04 05:24:16,070 INFO - 600 lines processed
+2016-05-04 05:24:16,508 INFO - 700 lines processed
+2016-05-04 05:24:17,052 INFO - 800 lines processed
+2016-05-04 05:24:17,456 INFO - 900 lines processed
+2016-05-04 05:24:17,715 INFO - 1000 lines processed
+2016-05-04 05:24:17,873 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:24:18,679 INFO - 100 lines processed
+2016-05-04 05:24:19,289 INFO - 200 lines processed
+2016-05-04 05:24:20,002 INFO - 300 lines processed
+2016-05-04 05:24:20,918 INFO - 400 lines processed
+2016-05-04 05:24:21,488 INFO - 500 lines processed
+2016-05-04 05:24:22,100 INFO - 600 lines processed
+2016-05-04 05:24:22,532 INFO - 700 lines processed
+2016-05-04 05:24:23,081 INFO - 800 lines processed
+2016-05-04 05:24:23,483 INFO - 900 lines processed
+2016-05-04 05:24:23,742 INFO - 1000 lines processed
+2016-05-04 05:24:23,897 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:24:23,897 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:24:23,914 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:24:23,934 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:24:23,934 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:24:48,602 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:24:49,615 INFO - 100 lines processed
+2016-05-04 05:24:50,216 INFO - 200 lines processed
+2016-05-04 05:24:50,919 INFO - 300 lines processed
+2016-05-04 05:24:51,831 INFO - 400 lines processed
+2016-05-04 05:24:52,367 INFO - 500 lines processed
+2016-05-04 05:24:53,006 INFO - 600 lines processed
+2016-05-04 05:24:53,447 INFO - 700 lines processed
+2016-05-04 05:24:53,996 INFO - 800 lines processed
+2016-05-04 05:24:54,409 INFO - 900 lines processed
+2016-05-04 05:24:54,667 INFO - 1000 lines processed
+2016-05-04 05:24:54,819 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:24:55,624 INFO - 100 lines processed
+2016-05-04 05:24:56,238 INFO - 200 lines processed
+2016-05-04 05:24:56,933 INFO - 300 lines processed
+2016-05-04 05:24:57,842 INFO - 400 lines processed
+2016-05-04 05:24:58,381 INFO - 500 lines processed
+2016-05-04 05:24:58,996 INFO - 600 lines processed
+2016-05-04 05:24:59,432 INFO - 700 lines processed
+2016-05-04 05:24:59,974 INFO - 800 lines processed
+2016-05-04 05:25:00,378 INFO - 900 lines processed
+2016-05-04 05:25:00,637 INFO - 1000 lines processed
+2016-05-04 05:25:00,792 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:25:00,792 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:25:00,809 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:25:00,829 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:25:00,830 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:25:20,668 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:25:21,677 INFO - 100 lines processed
+2016-05-04 05:25:22,286 INFO - 200 lines processed
+2016-05-04 05:25:22,990 INFO - 300 lines processed
+2016-05-04 05:25:23,906 INFO - 400 lines processed
+2016-05-04 05:25:24,448 INFO - 500 lines processed
+2016-05-04 05:25:25,065 INFO - 600 lines processed
+2016-05-04 05:25:25,503 INFO - 700 lines processed
+2016-05-04 05:25:26,048 INFO - 800 lines processed
+2016-05-04 05:25:26,453 INFO - 900 lines processed
+2016-05-04 05:25:26,708 INFO - 1000 lines processed
+2016-05-04 05:25:26,860 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:25:27,667 INFO - 100 lines processed
+2016-05-04 05:25:28,278 INFO - 200 lines processed
+2016-05-04 05:25:28,973 INFO - 300 lines processed
+2016-05-04 05:25:29,909 INFO - 400 lines processed
+2016-05-04 05:25:30,452 INFO - 500 lines processed
+2016-05-04 05:25:31,068 INFO - 600 lines processed
+2016-05-04 05:25:31,502 INFO - 700 lines processed
+2016-05-04 05:25:32,048 INFO - 800 lines processed
+2016-05-04 05:25:32,474 INFO - 900 lines processed
+2016-05-04 05:25:32,730 INFO - 1000 lines processed
+2016-05-04 05:25:32,887 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:25:32,887 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:25:32,904 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:25:32,925 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:25:32,925 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:25:32,995 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.pkl
+2016-05-04 05:25:33,042 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.pkl
+2016-05-04 05:25:33,088 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:28:22,891 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:28:23,911 INFO - 100 lines processed
+2016-05-04 05:28:24,541 INFO - 200 lines processed
+2016-05-04 05:28:25,228 INFO - 300 lines processed
+2016-05-04 05:28:26,149 INFO - 400 lines processed
+2016-05-04 05:28:26,690 INFO - 500 lines processed
+2016-05-04 05:28:27,505 INFO - 600 lines processed
+2016-05-04 05:28:27,943 INFO - 700 lines processed
+2016-05-04 05:28:28,495 INFO - 800 lines processed
+2016-05-04 05:28:28,903 INFO - 900 lines processed
+2016-05-04 05:28:29,160 INFO - 1000 lines processed
+2016-05-04 05:28:29,312 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:28:30,122 INFO - 100 lines processed
+2016-05-04 05:28:30,740 INFO - 200 lines processed
+2016-05-04 05:28:31,439 INFO - 300 lines processed
+2016-05-04 05:28:32,358 INFO - 400 lines processed
+2016-05-04 05:28:32,912 INFO - 500 lines processed
+2016-05-04 05:28:33,553 INFO - 600 lines processed
+2016-05-04 05:28:33,990 INFO - 700 lines processed
+2016-05-04 05:28:34,541 INFO - 800 lines processed
+2016-05-04 05:28:34,949 INFO - 900 lines processed
+2016-05-04 05:28:35,209 INFO - 1000 lines processed
+2016-05-04 05:28:35,383 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:28:35,383 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:28:35,399 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:28:35,420 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:28:35,420 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:29:17,831 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:29:18,844 INFO - 100 lines processed
+2016-05-04 05:29:19,449 INFO - 200 lines processed
+2016-05-04 05:29:20,144 INFO - 300 lines processed
+2016-05-04 05:29:21,054 INFO - 400 lines processed
+2016-05-04 05:29:21,610 INFO - 500 lines processed
+2016-05-04 05:29:22,226 INFO - 600 lines processed
+2016-05-04 05:29:22,666 INFO - 700 lines processed
+2016-05-04 05:29:23,212 INFO - 800 lines processed
+2016-05-04 05:29:23,616 INFO - 900 lines processed
+2016-05-04 05:29:23,875 INFO - 1000 lines processed
+2016-05-04 05:29:24,030 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:29:24,856 INFO - 100 lines processed
+2016-05-04 05:29:25,527 INFO - 200 lines processed
+2016-05-04 05:29:26,219 INFO - 300 lines processed
+2016-05-04 05:29:27,162 INFO - 400 lines processed
+2016-05-04 05:29:27,722 INFO - 500 lines processed
+2016-05-04 05:29:28,335 INFO - 600 lines processed
+2016-05-04 05:29:28,788 INFO - 700 lines processed
+2016-05-04 05:29:29,330 INFO - 800 lines processed
+2016-05-04 05:29:29,737 INFO - 900 lines processed
+2016-05-04 05:29:29,995 INFO - 1000 lines processed
+2016-05-04 05:29:30,150 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:29:30,150 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:29:30,167 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:29:30,187 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:29:30,187 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:29:30,201 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:32:22,872 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:32:23,858 INFO - 100 lines processed
+2016-05-04 05:32:24,476 INFO - 200 lines processed
+2016-05-04 05:32:25,148 INFO - 300 lines processed
+2016-05-04 05:32:26,024 INFO - 400 lines processed
+2016-05-04 05:32:26,555 INFO - 500 lines processed
+2016-05-04 05:32:27,190 INFO - 600 lines processed
+2016-05-04 05:32:27,620 INFO - 700 lines processed
+2016-05-04 05:32:28,169 INFO - 800 lines processed
+2016-05-04 05:32:28,570 INFO - 900 lines processed
+2016-05-04 05:32:28,829 INFO - 1000 lines processed
+2016-05-04 05:32:28,984 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:32:29,786 INFO - 100 lines processed
+2016-05-04 05:32:30,406 INFO - 200 lines processed
+2016-05-04 05:32:31,117 INFO - 300 lines processed
+2016-05-04 05:32:32,049 INFO - 400 lines processed
+2016-05-04 05:32:32,625 INFO - 500 lines processed
+2016-05-04 05:32:33,260 INFO - 600 lines processed
+2016-05-04 05:32:33,691 INFO - 700 lines processed
+2016-05-04 05:32:34,257 INFO - 800 lines processed
+2016-05-04 05:32:34,660 INFO - 900 lines processed
+2016-05-04 05:32:34,917 INFO - 1000 lines processed
+2016-05-04 05:32:35,070 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:32:35,070 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:32:35,087 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:32:35,109 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:32:35,110 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:32:35,124 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:32:54,149 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:32:55,352 INFO - 100 lines processed
+2016-05-04 05:32:55,941 INFO - 200 lines processed
+2016-05-04 05:32:56,638 INFO - 300 lines processed
+2016-05-04 05:32:57,546 INFO - 400 lines processed
+2016-05-04 05:32:58,072 INFO - 500 lines processed
+2016-05-04 05:32:58,683 INFO - 600 lines processed
+2016-05-04 05:32:59,119 INFO - 700 lines processed
+2016-05-04 05:32:59,664 INFO - 800 lines processed
+2016-05-04 05:33:00,071 INFO - 900 lines processed
+2016-05-04 05:33:00,328 INFO - 1000 lines processed
+2016-05-04 05:33:00,482 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:33:01,296 INFO - 100 lines processed
+2016-05-04 05:33:01,911 INFO - 200 lines processed
+2016-05-04 05:33:02,606 INFO - 300 lines processed
+2016-05-04 05:33:03,516 INFO - 400 lines processed
+2016-05-04 05:33:04,054 INFO - 500 lines processed
+2016-05-04 05:33:04,698 INFO - 600 lines processed
+2016-05-04 05:33:05,133 INFO - 700 lines processed
+2016-05-04 05:33:05,684 INFO - 800 lines processed
+2016-05-04 05:33:06,094 INFO - 900 lines processed
+2016-05-04 05:33:06,350 INFO - 1000 lines processed
+2016-05-04 05:33:06,507 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:33:06,507 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:33:06,524 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:33:06,544 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:33:06,544 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:33:06,559 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:33:46,124 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:33:47,100 INFO - 100 lines processed
+2016-05-04 05:33:47,673 INFO - 200 lines processed
+2016-05-04 05:33:48,340 INFO - 300 lines processed
+2016-05-04 05:33:49,203 INFO - 400 lines processed
+2016-05-04 05:33:49,712 INFO - 500 lines processed
+2016-05-04 05:33:50,289 INFO - 600 lines processed
+2016-05-04 05:33:50,703 INFO - 700 lines processed
+2016-05-04 05:33:51,235 INFO - 800 lines processed
+2016-05-04 05:33:51,608 INFO - 900 lines processed
+2016-05-04 05:33:51,850 INFO - 1000 lines processed
+2016-05-04 05:33:51,993 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:33:52,751 INFO - 100 lines processed
+2016-05-04 05:33:53,332 INFO - 200 lines processed
+2016-05-04 05:33:53,985 INFO - 300 lines processed
+2016-05-04 05:33:54,846 INFO - 400 lines processed
+2016-05-04 05:33:55,352 INFO - 500 lines processed
+2016-05-04 05:33:55,917 INFO - 600 lines processed
+2016-05-04 05:33:56,317 INFO - 700 lines processed
+2016-05-04 05:33:56,835 INFO - 800 lines processed
+2016-05-04 05:33:57,212 INFO - 900 lines processed
+2016-05-04 05:33:57,815 INFO - 1000 lines processed
+2016-05-04 05:33:57,965 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:33:57,965 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:33:57,981 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:33:58,000 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:33:58,000 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:33:58,016 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:50:27,833 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:50:47,916 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:50:49,100 INFO - 100 lines processed
+2016-05-04 05:50:49,872 INFO - 200 lines processed
+2016-05-04 05:50:50,756 INFO - 300 lines processed
+2016-05-04 05:50:51,867 INFO - 400 lines processed
+2016-05-04 05:50:52,521 INFO - 500 lines processed
+2016-05-04 05:50:53,208 INFO - 600 lines processed
+2016-05-04 05:50:53,703 INFO - 700 lines processed
+2016-05-04 05:50:54,319 INFO - 800 lines processed
+2016-05-04 05:50:55,002 INFO - 900 lines processed
+2016-05-04 05:50:55,281 INFO - 1000 lines processed
+2016-05-04 05:51:56,449 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:51:56,832 INFO - 100 lines processed
+2016-05-04 05:51:56,914 INFO - 200 lines processed
+2016-05-04 05:51:56,998 INFO - 300 lines processed
+2016-05-04 05:51:57,085 INFO - 400 lines processed
+2016-05-04 05:51:57,143 INFO - 500 lines processed
+2016-05-04 05:51:57,185 INFO - 600 lines processed
+2016-05-04 05:51:57,219 INFO - 700 lines processed
+2016-05-04 05:51:57,259 INFO - 800 lines processed
+2016-05-04 05:51:57,291 INFO - 900 lines processed
+2016-05-04 05:51:57,313 INFO - 1000 lines processed
+2016-05-04 05:51:57,529 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:51:57,616 INFO - 100 lines processed
+2016-05-04 05:51:57,694 INFO - 200 lines processed
+2016-05-04 05:51:57,775 INFO - 300 lines processed
+2016-05-04 05:51:57,864 INFO - 400 lines processed
+2016-05-04 05:51:57,922 INFO - 500 lines processed
+2016-05-04 05:51:57,965 INFO - 600 lines processed
+2016-05-04 05:51:58,000 INFO - 700 lines processed
+2016-05-04 05:51:58,042 INFO - 800 lines processed
+2016-05-04 05:51:58,072 INFO - 900 lines processed
+2016-05-04 05:51:58,095 INFO - 1000 lines processed
+2016-05-04 05:51:58,303 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:51:58,303 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:51:58,323 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:51:58,345 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:51:58,346 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:52:33,978 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:52:34,299 INFO - 100 lines processed
+2016-05-04 05:52:34,394 INFO - 200 lines processed
+2016-05-04 05:52:34,506 INFO - 300 lines processed
+2016-05-04 05:52:34,637 INFO - 400 lines processed
+2016-05-04 05:52:34,731 INFO - 500 lines processed
+2016-05-04 05:52:34,797 INFO - 600 lines processed
+2016-05-04 05:52:34,849 INFO - 700 lines processed
+2016-05-04 05:52:34,912 INFO - 800 lines processed
+2016-05-04 05:52:34,960 INFO - 900 lines processed
+2016-05-04 05:52:34,994 INFO - 1000 lines processed
+2016-05-04 05:52:35,219 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:52:35,331 INFO - 100 lines processed
+2016-05-04 05:52:35,444 INFO - 200 lines processed
+2016-05-04 05:52:35,563 INFO - 300 lines processed
+2016-05-04 05:52:35,695 INFO - 400 lines processed
+2016-05-04 05:52:35,779 INFO - 500 lines processed
+2016-05-04 05:52:35,835 INFO - 600 lines processed
+2016-05-04 05:52:35,882 INFO - 700 lines processed
+2016-05-04 05:52:35,939 INFO - 800 lines processed
+2016-05-04 05:52:35,987 INFO - 900 lines processed
+2016-05-04 05:52:36,019 INFO - 1000 lines processed
+2016-05-04 05:52:36,254 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:52:36,254 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:52:36,274 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:52:36,300 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:52:36,300 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:54:56,047 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:54:56,374 INFO - 100 lines processed
+2016-05-04 05:54:56,469 INFO - 200 lines processed
+2016-05-04 05:54:56,570 INFO - 300 lines processed
+2016-05-04 05:54:56,683 INFO - 400 lines processed
+2016-05-04 05:54:56,760 INFO - 500 lines processed
+2016-05-04 05:54:56,816 INFO - 600 lines processed
+2016-05-04 05:54:56,861 INFO - 700 lines processed
+2016-05-04 05:54:56,913 INFO - 800 lines processed
+2016-05-04 05:54:56,951 INFO - 900 lines processed
+2016-05-04 05:54:56,979 INFO - 1000 lines processed
+2016-05-04 05:54:57,208 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:54:57,306 INFO - 100 lines processed
+2016-05-04 05:54:57,403 INFO - 200 lines processed
+2016-05-04 05:54:57,506 INFO - 300 lines processed
+2016-05-04 05:54:57,618 INFO - 400 lines processed
+2016-05-04 05:54:57,690 INFO - 500 lines processed
+2016-05-04 05:54:57,744 INFO - 600 lines processed
+2016-05-04 05:54:57,788 INFO - 700 lines processed
+2016-05-04 05:54:57,845 INFO - 800 lines processed
+2016-05-04 05:54:57,885 INFO - 900 lines processed
+2016-05-04 05:54:57,914 INFO - 1000 lines processed
+2016-05-04 05:54:58,137 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:54:58,137 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:54:58,156 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:54:58,181 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:54:58,181 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:58:15,130 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:58:15,425 INFO - 100 lines processed
+2016-05-04 05:58:15,506 INFO - 200 lines processed
+2016-05-04 05:58:15,589 INFO - 300 lines processed
+2016-05-04 05:58:15,681 INFO - 400 lines processed
+2016-05-04 05:58:15,740 INFO - 500 lines processed
+2016-05-04 05:58:15,784 INFO - 600 lines processed
+2016-05-04 05:58:15,818 INFO - 700 lines processed
+2016-05-04 05:58:15,862 INFO - 800 lines processed
+2016-05-04 05:58:15,893 INFO - 900 lines processed
+2016-05-04 05:58:15,915 INFO - 1000 lines processed
+2016-05-04 05:58:16,126 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:58:16,207 INFO - 100 lines processed
+2016-05-04 05:58:16,283 INFO - 200 lines processed
+2016-05-04 05:58:16,367 INFO - 300 lines processed
+2016-05-04 05:58:16,460 INFO - 400 lines processed
+2016-05-04 05:58:16,521 INFO - 500 lines processed
+2016-05-04 05:58:16,566 INFO - 600 lines processed
+2016-05-04 05:58:16,602 INFO - 700 lines processed
+2016-05-04 05:58:16,646 INFO - 800 lines processed
+2016-05-04 05:58:16,678 INFO - 900 lines processed
+2016-05-04 05:58:16,701 INFO - 1000 lines processed
+2016-05-04 05:58:16,919 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:58:16,919 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:58:16,939 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:58:16,962 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:58:16,962 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:58:47,763 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:58:48,064 INFO - 100 lines processed
+2016-05-04 05:58:48,144 INFO - 200 lines processed
+2016-05-04 05:58:48,227 INFO - 300 lines processed
+2016-05-04 05:58:48,317 INFO - 400 lines processed
+2016-05-04 05:58:48,376 INFO - 500 lines processed
+2016-05-04 05:58:48,420 INFO - 600 lines processed
+2016-05-04 05:58:48,456 INFO - 700 lines processed
+2016-05-04 05:58:48,498 INFO - 800 lines processed
+2016-05-04 05:58:48,528 INFO - 900 lines processed
+2016-05-04 05:58:48,551 INFO - 1000 lines processed
+2016-05-04 05:58:48,772 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:58:48,852 INFO - 100 lines processed
+2016-05-04 05:58:48,932 INFO - 200 lines processed
+2016-05-04 05:58:49,025 INFO - 300 lines processed
+2016-05-04 05:58:49,131 INFO - 400 lines processed
+2016-05-04 05:58:49,196 INFO - 500 lines processed
+2016-05-04 05:58:49,239 INFO - 600 lines processed
+2016-05-04 05:58:49,275 INFO - 700 lines processed
+2016-05-04 05:58:49,318 INFO - 800 lines processed
+2016-05-04 05:58:49,351 INFO - 900 lines processed
+2016-05-04 05:58:49,377 INFO - 1000 lines processed
+2016-05-04 05:58:49,601 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:58:49,601 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:58:49,623 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:58:49,647 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:58:49,648 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:59:05,294 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:59:05,610 INFO - 100 lines processed
+2016-05-04 05:59:05,695 INFO - 200 lines processed
+2016-05-04 05:59:05,776 INFO - 300 lines processed
+2016-05-04 05:59:05,865 INFO - 400 lines processed
+2016-05-04 05:59:05,923 INFO - 500 lines processed
+2016-05-04 05:59:05,966 INFO - 600 lines processed
+2016-05-04 05:59:06,000 INFO - 700 lines processed
+2016-05-04 05:59:06,041 INFO - 800 lines processed
+2016-05-04 05:59:06,071 INFO - 900 lines processed
+2016-05-04 05:59:06,092 INFO - 1000 lines processed
+2016-05-04 05:59:06,301 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:59:06,379 INFO - 100 lines processed
+2016-05-04 05:59:06,453 INFO - 200 lines processed
+2016-05-04 05:59:06,535 INFO - 300 lines processed
+2016-05-04 05:59:06,624 INFO - 400 lines processed
+2016-05-04 05:59:06,683 INFO - 500 lines processed
+2016-05-04 05:59:06,724 INFO - 600 lines processed
+2016-05-04 05:59:06,758 INFO - 700 lines processed
+2016-05-04 05:59:06,800 INFO - 800 lines processed
+2016-05-04 05:59:06,831 INFO - 900 lines processed
+2016-05-04 05:59:06,853 INFO - 1000 lines processed
+2016-05-04 05:59:07,064 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:07,064 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:59:07,083 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:07,106 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:59:07,106 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:59:30,778 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:59:31,088 INFO - 100 lines processed
+2016-05-04 05:59:31,169 INFO - 200 lines processed
+2016-05-04 05:59:31,253 INFO - 300 lines processed
+2016-05-04 05:59:31,345 INFO - 400 lines processed
+2016-05-04 05:59:31,408 INFO - 500 lines processed
+2016-05-04 05:59:31,455 INFO - 600 lines processed
+2016-05-04 05:59:31,493 INFO - 700 lines processed
+2016-05-04 05:59:31,538 INFO - 800 lines processed
+2016-05-04 05:59:31,569 INFO - 900 lines processed
+2016-05-04 05:59:31,591 INFO - 1000 lines processed
+2016-05-04 05:59:31,804 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:59:31,882 INFO - 100 lines processed
+2016-05-04 05:59:31,959 INFO - 200 lines processed
+2016-05-04 05:59:32,041 INFO - 300 lines processed
+2016-05-04 05:59:32,128 INFO - 400 lines processed
+2016-05-04 05:59:32,185 INFO - 500 lines processed
+2016-05-04 05:59:32,228 INFO - 600 lines processed
+2016-05-04 05:59:32,262 INFO - 700 lines processed
+2016-05-04 05:59:32,303 INFO - 800 lines processed
+2016-05-04 05:59:32,333 INFO - 900 lines processed
+2016-05-04 05:59:32,355 INFO - 1000 lines processed
+2016-05-04 05:59:32,563 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:32,563 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:59:32,582 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:32,606 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:59:32,606 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 05:59:57,714 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 05:59:58,031 INFO - 100 lines processed
+2016-05-04 05:59:58,116 INFO - 200 lines processed
+2016-05-04 05:59:58,202 INFO - 300 lines processed
+2016-05-04 05:59:58,294 INFO - 400 lines processed
+2016-05-04 05:59:58,352 INFO - 500 lines processed
+2016-05-04 05:59:58,396 INFO - 600 lines processed
+2016-05-04 05:59:58,432 INFO - 700 lines processed
+2016-05-04 05:59:58,474 INFO - 800 lines processed
+2016-05-04 05:59:58,505 INFO - 900 lines processed
+2016-05-04 05:59:58,528 INFO - 1000 lines processed
+2016-05-04 05:59:58,736 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 05:59:58,814 INFO - 100 lines processed
+2016-05-04 05:59:58,889 INFO - 200 lines processed
+2016-05-04 05:59:58,969 INFO - 300 lines processed
+2016-05-04 05:59:59,062 INFO - 400 lines processed
+2016-05-04 05:59:59,121 INFO - 500 lines processed
+2016-05-04 05:59:59,166 INFO - 600 lines processed
+2016-05-04 05:59:59,200 INFO - 700 lines processed
+2016-05-04 05:59:59,241 INFO - 800 lines processed
+2016-05-04 05:59:59,272 INFO - 900 lines processed
+2016-05-04 05:59:59,294 INFO - 1000 lines processed
+2016-05-04 05:59:59,502 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:59,502 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 05:59:59,521 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 05:59:59,544 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 05:59:59,545 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:02:10,970 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 06:02:11,259 INFO - 100 lines processed
+2016-05-04 06:02:11,339 INFO - 200 lines processed
+2016-05-04 06:02:11,424 INFO - 300 lines processed
+2016-05-04 06:02:11,515 INFO - 400 lines processed
+2016-05-04 06:02:11,577 INFO - 500 lines processed
+2016-05-04 06:02:11,620 INFO - 600 lines processed
+2016-05-04 06:02:11,655 INFO - 700 lines processed
+2016-05-04 06:02:11,696 INFO - 800 lines processed
+2016-05-04 06:02:11,727 INFO - 900 lines processed
+2016-05-04 06:02:11,749 INFO - 1000 lines processed
+2016-05-04 06:02:11,965 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 06:02:12,045 INFO - 100 lines processed
+2016-05-04 06:02:12,121 INFO - 200 lines processed
+2016-05-04 06:02:12,203 INFO - 300 lines processed
+2016-05-04 06:02:12,294 INFO - 400 lines processed
+2016-05-04 06:02:12,354 INFO - 500 lines processed
+2016-05-04 06:02:12,399 INFO - 600 lines processed
+2016-05-04 06:02:12,434 INFO - 700 lines processed
+2016-05-04 06:02:12,477 INFO - 800 lines processed
+2016-05-04 06:02:12,510 INFO - 900 lines processed
+2016-05-04 06:02:12,534 INFO - 1000 lines processed
+2016-05-04 06:02:12,753 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:02:12,754 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 06:02:12,773 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:02:12,797 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 06:02:12,797 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:04:42,680 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 06:04:42,977 INFO - 100 lines processed
+2016-05-04 06:04:43,058 INFO - 200 lines processed
+2016-05-04 06:04:43,139 INFO - 300 lines processed
+2016-05-04 06:04:43,230 INFO - 400 lines processed
+2016-05-04 06:04:43,286 INFO - 500 lines processed
+2016-05-04 06:04:43,329 INFO - 600 lines processed
+2016-05-04 06:04:43,364 INFO - 700 lines processed
+2016-05-04 06:04:43,405 INFO - 800 lines processed
+2016-05-04 06:04:43,436 INFO - 900 lines processed
+2016-05-04 06:04:43,458 INFO - 1000 lines processed
+2016-05-04 06:04:43,664 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 06:04:43,744 INFO - 100 lines processed
+2016-05-04 06:04:43,819 INFO - 200 lines processed
+2016-05-04 06:04:43,899 INFO - 300 lines processed
+2016-05-04 06:04:43,990 INFO - 400 lines processed
+2016-05-04 06:04:44,049 INFO - 500 lines processed
+2016-05-04 06:04:44,091 INFO - 600 lines processed
+2016-05-04 06:04:44,126 INFO - 700 lines processed
+2016-05-04 06:04:44,169 INFO - 800 lines processed
+2016-05-04 06:04:44,199 INFO - 900 lines processed
+2016-05-04 06:04:44,222 INFO - 1000 lines processed
+2016-05-04 06:04:44,429 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:04:44,429 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 06:04:44,449 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:04:44,473 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 06:04:44,473 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:06:04,834 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 06:06:05,245 INFO - 100 lines processed
+2016-05-04 06:06:05,326 INFO - 200 lines processed
+2016-05-04 06:06:05,412 INFO - 300 lines processed
+2016-05-04 06:06:05,526 INFO - 400 lines processed
+2016-05-04 06:06:05,588 INFO - 500 lines processed
+2016-05-04 06:06:05,633 INFO - 600 lines processed
+2016-05-04 06:06:05,669 INFO - 700 lines processed
+2016-05-04 06:06:05,712 INFO - 800 lines processed
+2016-05-04 06:06:05,744 INFO - 900 lines processed
+2016-05-04 06:06:05,767 INFO - 1000 lines processed
+2016-05-04 06:06:05,983 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 06:06:06,064 INFO - 100 lines processed
+2016-05-04 06:06:06,144 INFO - 200 lines processed
+2016-05-04 06:06:06,228 INFO - 300 lines processed
+2016-05-04 06:06:06,320 INFO - 400 lines processed
+2016-05-04 06:06:06,381 INFO - 500 lines processed
+2016-05-04 06:06:06,427 INFO - 600 lines processed
+2016-05-04 06:06:06,463 INFO - 700 lines processed
+2016-05-04 06:06:06,506 INFO - 800 lines processed
+2016-05-04 06:06:06,540 INFO - 900 lines processed
+2016-05-04 06:06:06,563 INFO - 1000 lines processed
+2016-05-04 06:06:06,779 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:06:06,779 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 06:06:06,799 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:06:06,824 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 06:06:06,824 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:07:27,692 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 06:07:27,982 INFO - 100 lines processed
+2016-05-04 06:07:28,062 INFO - 200 lines processed
+2016-05-04 06:07:28,142 INFO - 300 lines processed
+2016-05-04 06:07:28,229 INFO - 400 lines processed
+2016-05-04 06:07:28,286 INFO - 500 lines processed
+2016-05-04 06:07:28,329 INFO - 600 lines processed
+2016-05-04 06:07:28,365 INFO - 700 lines processed
+2016-05-04 06:07:28,406 INFO - 800 lines processed
+2016-05-04 06:07:28,437 INFO - 900 lines processed
+2016-05-04 06:07:28,459 INFO - 1000 lines processed
+2016-05-04 06:07:28,678 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 06:07:28,760 INFO - 100 lines processed
+2016-05-04 06:07:28,836 INFO - 200 lines processed
+2016-05-04 06:07:28,919 INFO - 300 lines processed
+2016-05-04 06:07:29,008 INFO - 400 lines processed
+2016-05-04 06:07:29,070 INFO - 500 lines processed
+2016-05-04 06:07:29,113 INFO - 600 lines processed
+2016-05-04 06:07:29,148 INFO - 700 lines processed
+2016-05-04 06:07:29,191 INFO - 800 lines processed
+2016-05-04 06:07:29,222 INFO - 900 lines processed
+2016-05-04 06:07:29,244 INFO - 1000 lines processed
+2016-05-04 06:07:29,463 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:07:29,463 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 06:07:29,482 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:07:29,506 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 06:07:29,506 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:13:38,706 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt_cp
+2016-05-04 06:13:39,018 INFO - 100 lines processed
+2016-05-04 06:13:39,098 INFO - 200 lines processed
+2016-05-04 06:13:39,182 INFO - 300 lines processed
+2016-05-04 06:13:39,272 INFO - 400 lines processed
+2016-05-04 06:13:39,329 INFO - 500 lines processed
+2016-05-04 06:13:39,372 INFO - 600 lines processed
+2016-05-04 06:13:39,407 INFO - 700 lines processed
+2016-05-04 06:13:39,447 INFO - 800 lines processed
+2016-05-04 06:13:39,477 INFO - 900 lines processed
+2016-05-04 06:13:39,498 INFO - 1000 lines processed
+2016-05-04 06:13:39,710 INFO - Start processing,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//id_post/id_post0_sample.txt
+2016-05-04 06:13:39,789 INFO - 100 lines processed
+2016-05-04 06:13:39,862 INFO - 200 lines processed
+2016-05-04 06:13:39,944 INFO - 300 lines processed
+2016-05-04 06:13:40,030 INFO - 400 lines processed
+2016-05-04 06:13:40,087 INFO - 500 lines processed
+2016-05-04 06:13:40,128 INFO - 600 lines processed
+2016-05-04 06:13:40,163 INFO - 700 lines processed
+2016-05-04 06:13:40,204 INFO - 800 lines processed
+2016-05-04 06:13:40,234 INFO - 900 lines processed
+2016-05-04 06:13:40,256 INFO - 1000 lines processed
+2016-05-04 06:13:40,467 INFO - Start combining,  the file names is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:13:40,468 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_cp_idf.data
+2016-05-04 06:13:40,486 INFO - Start combining /home/chenlongzhen/IdeaProjects/td-idf/src/../data//idf/id_post0_sample.txt_idf.data
+2016-05-04 06:13:40,508 INFO - TF_FILE: 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data,/home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
+2016-05-04 06:13:40,509 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_cp_tf.data
+2016-05-04 06:13:40,531 INFO - Start calculating tf-idf,  the file name is 
+ /home/chenlongzhen/IdeaProjects/td-idf/src/../data//tf/id_post0_sample.txt_tf.data
